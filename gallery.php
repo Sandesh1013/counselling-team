@@ -47,8 +47,8 @@
                         <a class="nav-link dropdown-toggle" id="dropdownMenu1" data-toggle="dropdown"
                            aria-haspopup="true" aria-expanded="false">CS Team</a>
                         <div class="dropdown-menu" aria-labelledby="dropdownMenu1">
-                            <a class="dropdown-item" href="cs_team_ug.html">UG Team</a>
-                            <a class="dropdown-item" href="cs_team_pg.html">PG Team</a>
+                            <a class="dropdown-item" href="coming_soon.html">UG Team</a>
+                            <a class="dropdown-item" href="coming_soon.html">PG Team</a>
                         </div>
                     </li>
                     <li class="nav-item dropdown btn-group">
@@ -76,9 +76,6 @@
                     </li>
                     <li class="nav-item active">
                         <a class="nav-link" href="#">Gallery<span class="sr-only">(current)</span></a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="contact.html">Contact Us</a>
                     </li>
                 </ul>
 
