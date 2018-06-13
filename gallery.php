@@ -65,15 +65,6 @@
                             <a class="dropdown-item" href="parivartan.html">Parivartan</a>
                         </div>
                     </li>
-                    <li class="nav-item dropdown btn-group">
-                        <a class="nav-link dropdown-toggle" id="dropdownMenu3" data-toggle="dropdown"
-                           aria-haspopup="true" aria-expanded="false">FAQs</a>
-                        <div class="dropdown-menu dropdown" aria-labelledby="dropdownMenu1">
-                            <a class="dropdown-item" href="general.html">General FAQs</a>
-                            <a class="dropdown-item" href="academics.html">Academics</a>
-                            <a class="dropdown-item" href="cs.html">Counselling Service</a>
-                        </div>
-                    </li>
                     <li class="nav-item active">
                         <a class="nav-link" href="#">Gallery<span class="sr-only">(current)</span></a>
                     </li>
