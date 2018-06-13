@@ -58,11 +58,11 @@
                             <a class="dropdown-item" href="societies.html">Societies</a>
                             <a class="dropdown-item" href="committees.html">Committees</a>
                             <a class="dropdown-item" href="festivals.html">Festivals</a>
-                            <a class="dropdown-item" target="_blank" href="http://www.iitjecell.in/">E-Cell</a>
+
                             <a class="dropdown-item" target="_blank" href="http://spc.iitj.ac.in/">Career Development
                                 Cell (Placement
                                 Cell)</a>
-                            <a class="dropdown-item" href="parivartan.html">Parivartan</a>
+
                         </div>
                     </li>
                     <li class="nav-item active">
