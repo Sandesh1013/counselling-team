@@ -48,7 +48,7 @@
                            aria-haspopup="true" aria-expanded="false">CS Team</a>
                         <div class="dropdown-menu" aria-labelledby="dropdownMenu1">
                             <a class="dropdown-item" href="cs_team_ug.html">UG Team</a>
-                            <a class="dropdown-item" href="coming_soon.html">PG Team</a>
+                            <a class="dropdown-item" href="cs_team_pg.html">PG Team</a>
                         </div>
                     </li>
                     <li class="nav-item dropdown btn-group">
