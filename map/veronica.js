@@ -79,31 +79,98 @@ let busSchedule = function () {
     minutes+=time.getMinutes();
     let currentTime = hours+ ":" + minutes;
     let lateNightFlag=1;
-    for (var i=0; i<mbmToKarwad.length; i++){
-        if (mbmToKarwad[i]>currentTime){
-            lateNightFlag = 0;
-            break;
+    let nextBusKarwad = mbmToKarwadSat[0];
+    let nextBusMbm = karwadToMbmSat[0];
+    if (time.getDay()=="6"){
+        for (var i=0; i<mbmToKarwadSat.length; i++){
+            if (mbmToKarwadSat[i]>currentTime){
+                lateNightFlag = 0;
+                break;
+            }
+        }
+        if (lateNightFlag == 0){
+            nextBusKarwad = mbmToKarwadSat[i];
+        }
+        else {
+            nextBusKarwad = mbmToKarwadSat[0];
+
+        }
+        lateNightFlag=1;
+        for (var i=0; i<karwadToMbmSat.length; i++){
+            if (karwadToMbmSat[i]>currentTime){
+                lateNightFlag = 0;
+                break;
+            }
+        }
+        if (lateNightFlag == 0){
+            nextBusMbm = karwadToMbmSat[i];
+        }
+        else {
+            nextBusMbm = karwadToMbmSat[0];
         }
     }
-    let nextBusKarwad = mbmToKarwad[0];
-    if (lateNightFlag == 0){
-        nextBusKarwad = mbmToKarwad[i];
-    }
-    lateNightFlag=1;
-    for (var i=0; i<karwadToMbm.length; i++){
-        if (karwadToMbm[i]>currentTime){
-            lateNightFlag = 0;
-            break;
+    if (time.getDay()=='7'){
+        for (var i=0; i<mbmToKarwadSun.length; i++){
+            if (mbmToKarwadSun[i]>currentTime) {
+                lateNightFlag = 0;
+                break;
+            }
+        }
+        if (lateNightFlag == 0){
+            nextBusKarwad = mbmToKarwadSun[i];
+        }
+        else {
+            nextBusKarwad = mbmToKarwadSun[0];
+
+        }
+        lateNightFlag=1;
+        for (var i=0; i<karwadToMbmSun.length; i++){
+            if (karwadToMbmSun[i]>currentTime){
+                lateNightFlag = 0;
+                break;
+            }
+        }
+        if (lateNightFlag == 0){
+            nextBusMbm = karwadToMbmSun[i];
+        }
+        else {
+            nextBusMbm = karwadToMbmSun[0];
         }
     }
-    let nextBusMbm = karwadToMbm[0];
-    if (lateNightFlag == 0){
-        nextBusMbm = karwadToMbm[i];
+    else {
+        for (var i=0; i<mbmToKarwad.length; i++){
+            if (mbmToKarwad[i]>currentTime) {
+                lateNightFlag = 0;
+                break;
+            }
+        }
+        if (lateNightFlag == 0){
+            nextBusKarwad = mbmToKarwad[i];
+        }
+        else {
+            nextBusKarwad = mbmToKarwad[0];
+
+        }
+        lateNightFlag=1;
+        for (var i=0; i<karwadToMbm.length; i++){
+            if (karwadToMbm[i]>currentTime){
+                lateNightFlag = 0;
+                break;
+            }
+        }
+        if (lateNightFlag == 0){
+            nextBusMbm = karwadToMbm[i];
+        }
+        else {
+            nextBusMbm = karwadToMbm[0];
+        }
     }
+
+
     document.getElementById('karwadBus').innerHTML = nextBusKarwad;
     document.getElementById('mbmBus').innerHTML = nextBusMbm;
     setTimeout(busSchedule,60000);
-}
+};
 
 let init = function () {
     initialiseMap();
