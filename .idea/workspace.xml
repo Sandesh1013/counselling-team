@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="1dc7df45-32c2-489b-9443-a0b55111b403" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cs_team_ug.html" beforeDir="false" afterPath="$PROJECT_DIR$/cs_team_ug.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -26,8 +26,8 @@
       <file leaf-file-name="cs_team_ug.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/cs_team_ug.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="403">
-              <caret line="545" column="17" lean-forward="true" selection-start-line="545" selection-start-column="17" selection-end-line="545" selection-end-column="17" />
+            <state relative-caret-position="9265">
+              <caret line="545" column="17" selection-start-line="545" selection-start-column="17" selection-end-line="545" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -56,8 +56,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="301">
-              <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+            <state relative-caret-position="243">
+              <caret line="243" column="32" selection-start-line="243" selection-start-column="32" selection-end-line="243" selection-end-column="32" />
             </state>
           </provider>
         </entry>
@@ -65,8 +65,8 @@
       <file leaf-file-name="societies.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/societies.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="352">
-              <caret line="308" column="67" lean-forward="true" selection-start-line="308" selection-start-column="67" selection-end-line="308" selection-end-column="67" />
+            <state relative-caret-position="5236">
+              <caret line="308" column="67" selection-start-line="308" selection-start-column="67" selection-end-line="308" selection-end-column="67" />
             </state>
           </provider>
         </entry>
@@ -97,6 +97,7 @@
       <find>karthik</find>
       <find>harsh ak</find>
       <find>ayush</find>
+      <find>we</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -109,6 +110,7 @@
         <option value="$PROJECT_DIR$/cs_website/cs_team_ug.html" />
         <option value="$PROJECT_DIR$/societies.html" />
         <option value="$PROJECT_DIR$/cs_team_ug.html" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -123,8 +125,8 @@
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="75" />
-    <option name="y" value="43" />
-    <option name="width" value="1282" />
+    <option name="y" value="42" />
+    <option name="width" value="1283" />
     <option name="height" value="705" />
   </component>
   <component name="ProjectView">
@@ -193,7 +195,8 @@
       <workItem from="1528807123406" duration="2025000" />
       <workItem from="1528814835233" duration="7844000" />
       <workItem from="1528962614746" duration="4340000" />
-      <workItem from="1528982318563" duration="4243000" />
+      <workItem from="1528982318563" duration="5173000" />
+      <workItem from="1529036424719" duration="128000" />
     </task>
     <task id="LOCAL-00001" summary="Updated Sakshi info">
       <created>1528974383970</created>
@@ -223,11 +226,18 @@
       <option name="project" value="LOCAL" />
       <updated>1528987810471</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Removed Ayush">
+      <created>1528991277025</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1528991277025</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="23596000" />
+    <option name="totallyTimeSpent" value="24654000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -273,7 +283,8 @@
     <MESSAGE value="Updated Lakshya bio" />
     <MESSAGE value="Updated Literature Club info" />
     <MESSAGE value="Modified phone numbers ug team" />
-    <option name="LAST_COMMIT_MESSAGE" value="Modified phone numbers ug team" />
+    <MESSAGE value="Removed Ayush" />
+    <option name="LAST_COMMIT_MESSAGE" value="Removed Ayush" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/gallery.php">
@@ -508,22 +519,22 @@
     <entry file="file://$PROJECT_DIR$/cs_website/cs_team_ug.html" />
     <entry file="file://$PROJECT_DIR$/societies.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="352">
-          <caret line="308" column="67" lean-forward="true" selection-start-line="308" selection-start-column="67" selection-end-line="308" selection-end-column="67" />
+        <state relative-caret-position="5236">
+          <caret line="308" column="67" selection-start-line="308" selection-start-column="67" selection-end-line="308" selection-end-column="67" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/cs_team_ug.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="403">
-          <caret line="545" column="17" lean-forward="true" selection-start-line="545" selection-start-column="17" selection-end-line="545" selection-end-column="17" />
+        <state relative-caret-position="9265">
+          <caret line="545" column="17" selection-start-line="545" selection-start-column="17" selection-end-line="545" selection-end-column="17" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="301">
-          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+        <state relative-caret-position="243">
+          <caret line="243" column="32" selection-start-line="243" selection-start-column="32" selection-end-line="243" selection-end-column="32" />
         </state>
       </provider>
     </entry>
