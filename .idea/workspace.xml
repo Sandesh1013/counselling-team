@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="1dc7df45-32c2-489b-9443-a0b55111b403" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cs_team_ug.html" beforeDir="false" afterPath="$PROJECT_DIR$/cs_team_ug.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -23,11 +23,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="cs_team_ug.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="cs_team_ug.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/cs_team_ug.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="9265">
-              <caret line="545" column="17" selection-start-line="545" selection-start-column="17" selection-end-line="545" selection-end-column="17" />
+            <state relative-caret-position="345">
+              <caret line="280" column="42" selection-start-line="280" selection-start-column="42" selection-end-line="280" selection-end-column="42" />
             </state>
           </provider>
         </entry>
@@ -53,11 +53,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="243">
-              <caret line="243" column="32" selection-start-line="243" selection-start-column="32" selection-end-line="243" selection-end-column="32" />
+            <state relative-caret-position="4165">
+              <caret line="245" column="48" selection-start-line="245" selection-start-column="48" selection-end-line="245" selection-end-column="48" />
             </state>
           </provider>
         </entry>
@@ -98,6 +98,7 @@
       <find>harsh ak</find>
       <find>ayush</find>
       <find>we</find>
+      <find>shresh</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -109,8 +110,8 @@
         <option value="$PROJECT_DIR$/cs_website/contact.html" />
         <option value="$PROJECT_DIR$/cs_website/cs_team_ug.html" />
         <option value="$PROJECT_DIR$/societies.html" />
-        <option value="$PROJECT_DIR$/cs_team_ug.html" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/cs_team_ug.html" />
       </list>
     </option>
   </component>
@@ -125,8 +126,8 @@
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="75" />
-    <option name="y" value="42" />
-    <option name="width" value="1283" />
+    <option name="y" value="41" />
+    <option name="width" value="1284" />
     <option name="height" value="705" />
   </component>
   <component name="ProjectView">
@@ -140,6 +141,17 @@
             <path>
               <item name="cs_website" type="b2602c69:ProjectViewProjectNode" />
               <item name="cs_website" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cs_website" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cs_website" type="462c0819:PsiDirectoryNode" />
+              <item name="images" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cs_website" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cs_website" type="462c0819:PsiDirectoryNode" />
+              <item name="images" type="462c0819:PsiDirectoryNode" />
+              <item name="avatar" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -196,7 +208,8 @@
       <workItem from="1528814835233" duration="7844000" />
       <workItem from="1528962614746" duration="4340000" />
       <workItem from="1528982318563" duration="5173000" />
-      <workItem from="1529036424719" duration="128000" />
+      <workItem from="1529036424719" duration="2838000" />
+      <workItem from="1529043854387" duration="643000" />
     </task>
     <task id="LOCAL-00001" summary="Updated Sakshi info">
       <created>1528974383970</created>
@@ -233,11 +246,25 @@
       <option name="project" value="LOCAL" />
       <updated>1528991277025</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Updated Our Motto">
+      <created>1529036752215</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1529036752215</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Updated Lakshya photo">
+      <created>1529037957115</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1529037957115</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="24654000" />
+    <option name="totallyTimeSpent" value="28007000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -252,7 +279,7 @@
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32965517" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -284,7 +311,9 @@
     <MESSAGE value="Updated Literature Club info" />
     <MESSAGE value="Modified phone numbers ug team" />
     <MESSAGE value="Removed Ayush" />
-    <option name="LAST_COMMIT_MESSAGE" value="Removed Ayush" />
+    <MESSAGE value="Updated Our Motto" />
+    <MESSAGE value="Updated Lakshya photo" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated Lakshya photo" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/gallery.php">
@@ -524,17 +553,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/cs_team_ug.html">
+    <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="9265">
-          <caret line="545" column="17" selection-start-line="545" selection-start-column="17" selection-end-line="545" selection-end-column="17" />
+        <state relative-caret-position="4165">
+          <caret line="245" column="48" selection-start-line="245" selection-start-column="48" selection-end-line="245" selection-end-column="48" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/cs_team_ug.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="243">
-          <caret line="243" column="32" selection-start-line="243" selection-start-column="32" selection-end-line="243" selection-end-column="32" />
+        <state relative-caret-position="345">
+          <caret line="280" column="42" selection-start-line="280" selection-start-column="42" selection-end-line="280" selection-end-column="42" />
         </state>
       </provider>
     </entry>
