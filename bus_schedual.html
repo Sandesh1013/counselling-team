@@ -79,7 +79,7 @@
     <h1 class="section-heading">Bus Schedule</h1>
     <div class="row">
         <div class="col-lg-4 col-md-6 col-sm-12 mb-r">
-
+            <h4 class="text-center">Monday to Friday</h4>
             <table class="table">
                 <thead>
                 <tr>
@@ -91,7 +91,7 @@
             </table>
         </div>
         <div class="col-lg-4 col-md-6 col-sm-12 mb-r">
-
+            <h4 class="text-center">Saturday</h4>
             <table class="table">
                 <thead>
                 <tr>
@@ -103,7 +103,7 @@
             </table>
         </div>
         <div class="col-lg-4 col-md-6 col-sm-12 mb-r">
-
+            <h4 class="text-center">Sunday</h4>
             <table class="table">
                 <thead>
                 <tr>
@@ -115,6 +115,7 @@
             </table>
         </div>
     </div>
+    <div ><strong><a href="index.html">Back to Home</a></strong></div>
 
 </section>
 <!-- SCRIPTS -->
@@ -129,6 +130,8 @@
         var row =table1.insertRow(i);
         var cell1 = row.insertCell(0);
         var cell2 = row.insertCell(1);
+        if (mbmToKarwad[i]==null){mbmToKarwad[i] = '--';}
+        if (karwadToMbm[i]==null){karwadToMbm[i] = '--';}
         cell1.innerHTML = mbmToKarwad[i];
         cell2.innerHTML = karwadToMbm[i];
     }
@@ -137,6 +140,8 @@
         var row =table2.insertRow(i);
         var cell1 = row.insertCell(0);
         var cell2 = row.insertCell(1);
+        if (mbmToKarwadSat[i]==null){mbmToKarwadSat[i] = '--';}
+        if (karwadToMbmSat[i]==null){karwadToMbmSat[i] = '--';}
         cell1.innerHTML = mbmToKarwadSat[i];
         cell2.innerHTML = karwadToMbmSat[i];
     }
@@ -145,6 +150,8 @@
         var row =table3.insertRow(i);
         var cell1 = row.insertCell(0);
         var cell2 = row.insertCell(1);
+        if (mbmToKarwadSun[i]==null){mbmToKarwadSun[i] = '--';}
+        if (karwadToMbmSun[i]==null){karwadToMbmSun[i] = '--';}
         cell1.innerHTML = mbmToKarwadSun[i];
         cell2.innerHTML = karwadToMbmSun[i];
     }
