@@ -109,7 +109,7 @@ let busSchedule = function () {
             nextBusMbm = karwadToMbmSat[0];
         }
     }
-    if (time.getDay()=='7'){
+    else if (time.getDay()=='0'){
         for (var i=0; i<mbmToKarwadSun.length; i++){
             if (mbmToKarwadSun[i]>currentTime) {
                 lateNightFlag = 0;
