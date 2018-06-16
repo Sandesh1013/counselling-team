@@ -9,7 +9,6 @@ hotelList = [{"name": "Chandra Inn", "contact": "0291-2670610, 0291-5103791,0291
 {"name": "Hotel Raman Palace", "contact": "0291 251 3980", "address": "Opposite Kesar Bagh, Shiv Mandir Rd, Ratanada, Jodhpur, Rajasthan 342001, India", "lat": 26.281134, "lng": 73.02935599999999, "tarrif": "800-1800"},
 {"name": "Hotel Jasol Heritage", "contact": "0291-2513036", "address": "Jasol House, Police Line Rd, Ratanada, Jodhpur, Rajasthan 342011, India", "lat": 26.2768265, "lng": 73.0337559, "tarrif": "1200-1600"},
 {"name": "Chandra Grand", "contact": "073400 64989", "address": "E6A, MANDORE INDUSTRIAL AREA, 9 MILE, MANDORE, Jodhpur, Rajasthan 342007, India", "lat": 26.391248, "lng": 73.072261, "tarrif": "2200-3000"},
-{"name": "Govindam Family Restaurant & Guest House", "contact": "7790966203", "address": "1320 W 34th St, Houston, TX 77018, USA", "lat": 29.817733, "lng": -95.42369, "tarrif": "500-1000"},
 {"name": "Laxmi Guest House", "contact": "085609 80450", "address": "NH 65 bang opposite NLU, Jodhpur, India", "lat": 26.3638423, "lng": 73.0562704, "tarrif": "1000"},
 {"name": "Hotel Red Oak", "contact": "9414410691", "address": "Near Over Bridge, Mandore, Jodhpur, Jodhpur, Rajasthan 342304, India", "lat": 26.348747, "lng": 73.038873, "tarrif": "800-1200"},
 {"name": "Baba Ramdev Guest House", "contact": "9784274020", "address": "Near Mandore Overbridge, Mandore, Jodhpur, Rajasthan 342304, India", "lat": 26.348558, "lng": 73.03804699999999, "tarrif": "450-900"},
