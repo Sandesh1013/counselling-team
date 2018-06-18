@@ -79,8 +79,8 @@ let busSchedule = function () {
     minutes+=time.getMinutes();
     let currentTime = hours+ ":" + minutes;
     let lateNightFlag=1;
-    let nextBusKarwad = mbmToKarwadSat[0];
-    let nextBusMbm = karwadToMbmSat[0];
+    let nextBusKarwad = mbmToKarwad[0];
+    let nextBusMbm = karwadToMbm[0];
     if (time.getDay()=="6"){
         for (var i=0; i<mbmToKarwadSat.length; i++){
             if (mbmToKarwadSat[i]>currentTime){
@@ -92,7 +92,7 @@ let busSchedule = function () {
             nextBusKarwad = mbmToKarwadSat[i];
         }
         else {
-            nextBusKarwad = mbmToKarwadSat[0];
+            nextBusKarwad = mbmToKarwadSun[0] + '(Tomorrow)';
 
         }
         lateNightFlag=1;
@@ -106,7 +106,7 @@ let busSchedule = function () {
             nextBusMbm = karwadToMbmSat[i];
         }
         else {
-            nextBusMbm = karwadToMbmSat[0];
+            nextBusMbm = karwadToMbmSun[0] + '(Tomorrow)';
         }
     }
     else if (time.getDay()=='0'){
@@ -120,7 +120,7 @@ let busSchedule = function () {
             nextBusKarwad = mbmToKarwadSun[i];
         }
         else {
-            nextBusKarwad = mbmToKarwadSun[0];
+            nextBusKarwad = mbmToKarwad[0]+ '(Tomorrow)';
 
         }
         lateNightFlag=1;
@@ -134,7 +134,7 @@ let busSchedule = function () {
             nextBusMbm = karwadToMbmSun[i];
         }
         else {
-            nextBusMbm = karwadToMbmSun[0];
+            nextBusMbm = karwadToMbm[0] + '(Tomorrow)';
         }
     }
     else {
@@ -148,7 +148,12 @@ let busSchedule = function () {
             nextBusKarwad = mbmToKarwad[i];
         }
         else {
-            nextBusKarwad = mbmToKarwad[0];
+            if(time.getDay() == '5'){
+                nextBusKarwad = mbmToKarwadSat[0] + '(Tomorrow)';
+            }
+            else {
+                nextBusKarwad = mbmToKarwad[0] + '(Tomorrow)';
+            }
 
         }
         lateNightFlag=1;
@@ -162,7 +167,12 @@ let busSchedule = function () {
             nextBusMbm = karwadToMbm[i];
         }
         else {
-            nextBusMbm = karwadToMbm[0];
+            if (time.getDay() == '5'){
+                nextBusMbm = karwadToMbmSat[0] + '(Tomorrow)';
+            }
+            else {
+                nextBusMbm = karwadToMbm[0] + '(Tomorrow)';
+            }
         }
     }
 
