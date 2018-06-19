@@ -116,6 +116,20 @@ body,
     }
 }
 
+@media (max-width: 540px) {
+    .carousel-item:nth-child(9) {
+        background: url("../images/res-hero/imageNine-540px.jpg") no-repeat center;
+        background-size: cover;
+    }
+}
+
+@media (max-width: 540px) {
+    .carousel-item:nth-child(10) {
+        background: url("../images/res-hero/imageTen-540px.jpg") no-repeat center;
+        background-size: cover;
+    }
+}
+
 @media (min-width: 541px) and (max-width: 1000px) {
     .carousel-item:nth-child(1) {
         background: url("../images/res-hero/imageOne-1440px.jpg") no-repeat center;
@@ -172,6 +186,20 @@ body,
     }
 }
 
+@media (min-width: 541px) and (max-width: 1000px) {
+    .carousel-item:nth-child(9) {
+        background: url("../images/res-hero/imageNine-1440px.jpg") no-repeat center;
+        background-size: cover;
+    }
+}
+
+@media (min-width: 541px) and (max-width: 1000px) {
+    .carousel-item:nth-child(10) {
+        background: url("../images/res-hero/imageTen-1440px.jpg") no-repeat center;
+        background-size: cover;
+    }
+}
+
 @media (min-width: 1001px) {
     .carousel-item:nth-child(1) {
         background: url("../images/res-hero/imageOne-2160px.jpg") no-repeat center;
@@ -224,6 +252,20 @@ body,
 @media (min-width: 1001px) {
     .carousel-item:nth-child(8) {
         background: url("../images/res-hero/imageEight-2160px.jpg") no-repeat center;
+        background-size: cover;
+    }
+}
+
+@media (min-width: 1001px) {
+    .carousel-item:nth-child(9) {
+        background: url("../images/res-hero/imageNine-2160px.jpg") no-repeat center;
+        background-size: cover;
+    }
+}
+
+@media (min-width: 1001px) {
+    .carousel-item:nth-child(10) {
+        background: url("../images/res-hero/imageTen-2160px.jpg") no-repeat center;
         background-size: cover;
     }
 }

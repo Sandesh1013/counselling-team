@@ -8,11 +8,11 @@
     <meta http-equiv="x-ua-compatible" content="ie=edge">
     <meta name="theme-color" content="#D3D3D3">
     <meta name="description"
-          content=" IITJ. Checklist and forms for IIT Jodhpur. Ask any Query regarding admission at IIT Jodhpur and about Life at IIT Jodhpur">
+          content="Counselling Service IITJ. Checklist and forms for IIT Jodhpur. Ask any Query regarding admission at IIT Jodhpur and about Life at IIT Jodhpur">
     <meta name="robots" CONTENT="index, follow">
     <meta name="keywords"
-          content="IITJ, IIT Jodhpur, , CS IITJ, CS, IIT, Jodhpur, Query, JEE Advance, Life in IITJ, Indian Institute of Technology Jodhpur, Bus ,Bus Schedule"/>
-    <title>Counselling Service - IIT Jodhpur</title>
+          content="IITJ,CS Team IIT Jodhpur, IIT Jodhpur, Counselling Service, CS IITJ, CS, IIT, Jodhpur, Query, JEE Advance, Life in IITJ, Indian Institute of Technology Jodhpur"/>
+    <title>Misc FAQs</title>
     <!-- Font Awesome -->
     <link rel="stylesheet" href="css/font-awesome.min.css">
     <!-- Bootstrap core CSS -->
@@ -21,34 +21,32 @@
     <link href="css/compiled.min.css" rel="stylesheet">
     <!-- Your custom styles (optional) -->
     <link href="css/style.css" rel="stylesheet">
-    <link rel="shortcut icon" href="map/images/logo.png">
 
-
+    <link rel="icon" href="images/logo.png">
 </head>
-
 <body>
 <!--Navbar-->
-<nav class="navbar navbar-toggleable-md scrolling-navbar navbar-light fixed-top">
+<nav class="navbar navbar-toggleable-md noscroll navbar-light fixed-top">
     <div class="container">
         <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse"
                 data-target="#navbarNav1" aria-controls="navbarNav1" aria-expanded="false"
                 aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
         </button>
-        <a class="navbar-brand" href="">
-            <img src="map/images/logo.png" class="img-logo"><strong>Counselling Service</strong>
+        <a class="navbar-brand" href="/">
+            <img src="images/logo.png" class="img-logo"><strong>Counselling Service</strong>
         </a>
         <div>
             <div class="collapse navbar-collapse" id="navbarNav1">
                 <ul class="navbar-nav mr-auto">
-                    <li class="nav-item active">
-                        <a class="nav-link" href="index.html">Home<span class="sr-only">(current)</span></a>
+                    <li class="nav-item">
+                        <a class="nav-link" href="index.html">Home</a>
                     </li>
                     <li class="nav-item dropdown btn-group">
                         <a class="nav-link dropdown-toggle" id="dropdownMenu1" data-toggle="dropdown"
-                           aria-haspopup="true" aria-expanded="false">CS Team</a>
+                           aria-haspopup="true" aria-expanded="false">CS Team<span class="sr-only">(current)</span></a>
                         <div class="dropdown-menu dropdown" aria-labelledby="dropdownMenu1">
-                            <a class="dropdown-item" href="cs_team_ug.html">UG Team</a>
+                            <a class="dropdown-item" href="#">UG Team</a>
                             <a class="dropdown-item" href="cs_team_pg.html">PG Team</a>
                         </div>
                     </li>
@@ -58,20 +56,23 @@
                         <div class="dropdown-menu dropdown" aria-labelledby="dropdownMenu1">
                             <a class="dropdown-item" href="societies.html">Societies</a>
                             <a class="dropdown-item" href="committees.html">Committees</a>
-                            <a class="dropdown-item" href="festivals.html">Festivals</a>
+                            <a class="dropdown-item" href="#">Festivals</a>
+
                             <a class="dropdown-item" target="_blank" href="http://spc.iitj.ac.in/">Career Development
-                                Cell (Placement Cell)</a>
+                                Cell (Placement
+                                Cell)</a>
                             <a class="dropdown-item" href="hostel.html">Hostels @IITJ</a>
+
                         </div>
                     </li>
-                    <li class="nav-item dropdown btn-group">
+                    <li class="nav-item dropdown btn-group active">
                         <a class="nav-link dropdown-toggle" id="dropdownMenu3" data-toggle="dropdown"
                            aria-haspopup="true" aria-expanded="false">FAQs</a>
                         <div class="dropdown-menu dropdown" aria-labelledby="dropdownMenu3">
                             <a href="general_faqs.html" class="dropdown-item">General FAQs</a>
                             <a href="academics_faqs.html" class="dropdown-item">Academics FAQs</a>
                             <a href="hostel_mess_faqs.html" class="dropdown-item">Hostel/Mess FAQs</a>
-                            <a href="misc_faqs.html" class="dropdown-item">Misc FAQs</a>
+                            <a href="#" class="dropdown-item active">Misc FAQs</a>
                         </div>
                     </li>
                     <li class="nav-item">
@@ -84,83 +85,55 @@
     </div>
 </nav>
 
+
 <div class="top-fixer-2"></div>
 <section class="section team-section container">
-    <h1 class="section-heading">Bus Schedule</h1>
-    <div class="row">
-        <div class="col-lg-4 col-md-6 col-sm-12 mb-r">
-            <h4 class="text-center">Monday to Friday</h4>
-            <table class="table">
-                <thead>
-                <tr>
-                    <th scope="col">MBM to Karwad</th>
-                    <th scope="col">Karwad to MBM</th>
-                </tr>
-                </thead>
-                <tbody  id="schedule"></tbody>
-            </table>
+    <!--Section heading-->
+    <h1 class="section-heading">Misc FAQs</h1>
+    <!--Section description-->
+    <p class="section-description"></p>
+    <div class="accordion text-justify" id="accordion" role="tablist" aria-multiselectable="true">
+
+        <div class="card">
+            <div class="card-header" role="tab" id="heading1">
+                <a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse1"
+                   aria-expanded="false" aria-controls="collapse1">
+                    <h5 class="mb-0">
+                        <strong>Q.1</strong> When to reach IIT Jodhpur? <i class="fa fa-angle-down rotate-icon"></i>
+                    </h5>
+                </a>
+            </div>
+            <div id="collapse1" class="collapse" role="tabpanel" aria-labelledby="heading1">
+                <div class="card-block">
+                    <strong>A.</strong> The reporting date for UG students is August 17, 2017. You should reach Jodhpur by the same.
+                </div>
+            </div>
         </div>
-        <div class="col-lg-4 col-md-6 col-sm-12 mb-r">
-            <h4 class="text-center">Saturday</h4>
-            <table class="table">
-                <thead>
-                <tr>
-                    <th scope="col">MBM to Karwad</th>
-                    <th scope="col">Karwad to MBM</th>
-                </tr>
-                </thead>
-                <tbody  id="scheduleSat"></tbody>
-            </table>
+
+        <div class="card">
+            <div class="card-header" role="tab" id="heading2">
+                <a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse2"
+                   aria-expanded="false" aria-controls="collapse2">
+                    <h5 class="mb-0">
+                        <strong>Q.1</strong> When to reach IIT Jodhpur? <i class="fa fa-angle-down rotate-icon"></i>
+                    </h5>
+                </a>
+            </div>
+            <div id="collapse2" class="collapse" role="tabpanel" aria-labelledby="heading2">
+                <div class="card-block">
+                    <strong>A.</strong> The reporting date for UG students is August 17, 2017. You should reach Jodhpur by the same.
+                </div>
+            </div>
         </div>
-        <div class="col-lg-4 col-md-6 col-sm-12 mb-r">
-            <h4 class="text-center">Sunday</h4>
-            <table class="table">
-                <thead>
-                <tr>
-                    <th scope="col">MBM to Karwad</th>
-                    <th scope="col">Karwad to MBM</th>
-                </tr>
-                </thead>
-                <tbody  id="scheduleSun"></tbody>
-            </table>
-        </div>
+        <div class="h5-responsive p-4">For further queries mail us at <a href="mailto:counselling@iitj.ac.in">counselling@iitj.ac.in</a></div>
     </div>
-    <div class="btn btn-lg"><strong><a href="form/bus_schedule.pdf" download="Bus Schedule.pdf">Download Pdf Here</a></strong></div>
-    <div class="btn btn-lg"><strong><a href="index.html">Back to Home</a></strong></div>
 
 </section>
-<!-- SCRIPTS -->
+
 <!-- JQuery -->
 <script type="text/javascript" src="js/jquery-3.1.1.min.js"></script>
-<!-- Bootstrap core JavaScript -->
+<!--Bootstrap Core-->
 <script type="text/javascript" src="js/compiled.min.js"></script>
-<script type="text/javascript" src="map/bus_schedule.js"></script>
-<script>
-    var table1 = document.getElementById('schedule');
-    for (var i=0;i<Math.max(mbmToKarwad.length,karwadToMbm.length);i++){
-        var row =table1.insertRow(i);
-        var cell1 = row.insertCell(0);
-        var cell2 = row.insertCell(1);
-        cell1.innerHTML = mbmToKarwad[i] || '--';
-        cell2.innerHTML = karwadToMbm[i] || '--';
-    }
-    var table2 = document.getElementById('scheduleSat');
-    for (var i=0;i<Math.max(mbmToKarwadSat.length,karwadToMbmSat.length);i++){
-        var row =table2.insertRow(i);
-        var cell1 = row.insertCell(0);
-        var cell2 = row.insertCell(1);
-        cell1.innerHTML = mbmToKarwadSat[i] || '--';
-        cell2.innerHTML = karwadToMbmSat[i] || '--';
-    }
-    var table3 = document.getElementById('scheduleSun');
-    for (var i=0;i<Math.max(mbmToKarwadSun.length,karwadToMbmSun.length);i++){
-        var row =table3.insertRow(i);
-        var cell1 = row.insertCell(0);
-        var cell2 = row.insertCell(1);
-        cell1.innerHTML = mbmToKarwadSun[i] || '--';
-        cell2.innerHTML = karwadToMbmSun[i] || '--';
-    }
-</script>
 <!--Footer-->
 <footer class="page-footer center-on-small-only blue-grey darken-4">
 

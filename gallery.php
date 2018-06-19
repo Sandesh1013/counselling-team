@@ -66,6 +66,16 @@
 
                         </div>
                     </li>
+                    <li class="nav-item dropdown btn-group">
+                        <a class="nav-link dropdown-toggle" id="dropdownMenu3" data-toggle="dropdown"
+                           aria-haspopup="true" aria-expanded="false">FAQs</a>
+                        <div class="dropdown-menu dropdown" aria-labelledby="dropdownMenu3">
+                            <a href="general_faqs.html" class="dropdown-item">General FAQs</a>
+                            <a href="academics_faqs.html" class="dropdown-item">Academics FAQs</a>
+                            <a href="hostel_mess_faqs.html" class="dropdown-item">Hostel/Mess FAQs</a>
+                            <a href="misc_faqs.html" class="dropdown-item">Misc FAQs</a>
+                        </div>
+                    </li>
                     <li class="nav-item active">
                         <a class="nav-link" href="#">Gallery<span class="sr-only">(current)</span></a>
                     </li>
@@ -295,7 +305,7 @@
             <!--Copyright-->
             <div class="footer-copyright">
                 <div class="container-fluid">
-                    © 2018 Copyright: <a href="#">Counselling Service - IIT Jodhpur </a>
+                    © 2018 Copyright: <a href="index.html">Counselling Service - IIT Jodhpur </a>
 
                 </div>
             </div>
