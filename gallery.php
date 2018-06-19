@@ -122,34 +122,55 @@
     <div id="section-2">
         <div class="container text-center pt-1 mb-1">
 
-            <div class="row flex-center">
+            <div class="row flex-center nav-justified">
                 <ul id="gallery-nav" class="nav nav-tabs col tabs-4 blue darken-2" role="tablist">
                     <li class="nav-item">
-                        <a class="nav-link active" data-toggle="tab" href="#panel" role="tab">Ignus</a>
+                        <a class="nav-link active" data-toggle="tab" href="#campus" role="tab">Campus</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" data-toggle="tab" href="#pane2" role="tab">Spandan</a>
+                        <a class="nav-link" data-toggle="tab" href="#panel" role="tab">Student Activities</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" data-toggle="tab" href="#pane3" role="tab">Varchas</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" data-toggle="tab" href="#pane4" role="tab">Misc</a>
+                        <a class="nav-link" data-toggle="tab" href="#pane2" role="tab">Fests</a>
                     </li>
                 </ul>
                 <div class="tab-content text-justify">
-                    <!--Panel 1-->
-                    <div class="tab-pane fade in show active" id="panel" role="tabpanel">
+                    <!--Campus-->
+                    <div class="tab-pane fade in show active" id="campus" role="tabpanel">
                         <div class="col-md-12">
                             <div class="mdb-lightbox">
                                 <?php
-                                $dir_open = opendir('./images/gallery/ignus');
+                                $dir_open = opendir('./images/gallery/campus');
 
                                 while (false !== ($filename = readdir($dir_open))) {
                                     if ($filename != "." && $filename != "..") {
                                         $link = "<figure class=\"col-md-4 col-sm-6 col-6\">
-                        <a href='./images/gallery/ignus/$filename' data-size=\"1600x1067\">
-                            <img src=\"images/loader.gif\" data-src=\"./images/gallery/ignus/$filename\" class=\"lazyload img-fluid\">
+                        <a href='./images/gallery/campus/$filename' data-size=\"1600x1067\">
+                            <img src=\"images/loader.gif\" data-src=\"./images/gallery/campus/$filename\" class=\"lazyload img-fluid\">
+                        </a>
+                    </figure>
+                    ";
+                                        echo $link;
+                                    }
+                                }
+
+                                closedir($dir_open);
+                                ?>
+                            </div>
+                        </div>
+                    </div>
+                    <!--Panel 1-->
+                    <div class="tab-pane fade" id="panel" role="tabpanel">
+                        <div class="col-md-12">
+                            <div class="mdb-lightbox">
+                                <?php
+                                $dir_open = opendir('./images/gallery/activities');
+
+                                while (false !== ($filename = readdir($dir_open))) {
+                                    if ($filename != "." && $filename != "..") {
+                                        $link = "<figure class=\"col-md-4 col-sm-6 col-6\">
+                        <a href='./images/gallery/activities/$filename' data-size=\"1600x1067\">
+                            <img src=\"images/loader.gif\" data-src=\"./images/gallery/activities/$filename\" class=\"lazyload img-fluid\">
                         </a>
                     </figure>
                     ";
@@ -166,59 +187,13 @@
                         <div class="col-md-12">
                             <div class="mdb-lightbox">
                                 <?php
-                                $dir_open = opendir('./images/gallery/spandan');
+                                $dir_open = opendir('./images/gallery/fests');
 
                                 while (false !== ($filename = readdir($dir_open))) {
                                     if ($filename != "." && $filename != "..") {
                                         $link = "<figure class=\"col-md-4 col-sm-6 col-6\">
-                        <a href='./images/gallery/spandan/$filename' data-size=\"1600x1067\">
-                            <img src=\"images/loader.gif\" data-src=\"./images/gallery/spandan/$filename\" class=\"lazyload img-fluid\">
-                        </a>
-                    </figure>
-                    ";
-                                        echo $link;
-                                    }
-                                }
-
-                                closedir($dir_open);
-                                ?>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="tab-pane fade" id="pane3" role="tabpanel">
-                        <div class="col-md-12">
-                            <div class="mdb-lightbox">
-                                <?php
-                                $dir_open = opendir('./images/gallery/varchas');
-
-                                while (false !== ($filename = readdir($dir_open))) {
-                                    if ($filename != "." && $filename != "..") {
-                                        $link = "<figure class=\"col-md-4 col-sm-6 col-6\">
-                        <a href='./images/gallery/varchas/$filename' data-size=\"1600x1067\">
-                            <img src=\"images/loader.gif\" data-src=\"./images/gallery/varchas/$filename\" class=\"lazyload img-fluid\">
-                        </a>
-                    </figure>
-                    ";
-                                        echo $link;
-                                    }
-                                }
-
-                                closedir($dir_open);
-                                ?>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="tab-pane fade" id="pane4" role="tabpanel">
-                        <div class="col-md-12">
-                            <div class="mdb-lightbox">
-                                <?php
-                                $dir_open = opendir('./images/gallery/misc');
-
-                                while (false !== ($filename = readdir($dir_open))) {
-                                    if ($filename != "." && $filename != "..") {
-                                        $link = "<figure class=\"col-md-4 col-sm-6 col-6\">
-                        <a href='./images/gallery/misc/$filename' data-size=\"1600x1067\">
-                            <img src=\"images/loader.gif\" data-src=\"./images/gallery/misc/$filename\" class=\"lazyload img-fluid\">
+                        <a href='./images/gallery/fests/$filename' data-size=\"1600x1067\">
+                            <img src=\"images/loader.gif\" data-src=\"./images/gallery/fests/$filename\" class=\"lazyload img-fluid\">
                         </a>
                     </figure>
                     ";
