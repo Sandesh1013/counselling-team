@@ -6,7 +6,12 @@ before_script:
 test:7.1:
   image: php:7.1
   script:
-  - phpunit --configuration phpunit_myapp.xml
+  - phpunit --configuration .idea/jsLibraryMappings.xml
+  - phpunit --configuration .idea/misc.xml
+  - phpunit --configuration .idea/modules.xml
+  - phpunit --configuration .idea/php.xml
+  - phpunit --configuration .idea/vcs.xml
+
 pages:
   stage: deploy
   script:
