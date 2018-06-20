@@ -148,6 +148,8 @@
             <h4 class="mb-4 d-none d-md-block">
                 <strong>Stay updated and in case of any queries, contact us.</strong>
             </h4>
+            <h4 id="time-counter">
+            </h4>
 
             <a href="mailto:counselling@iitj.ac.in" class="btn btn-outline-white btn-lg">Mail us at counselling@iitj.ac.in
                 <i class="fa fa-graduation-cap ml-2"></i>
@@ -239,9 +241,14 @@
 <!-- Time Counter -->
 <script type="text/javascript">
     // Set the date we're counting down to
-    var countDownDate = new Date();
-    countDownDate.setDate(countDownDate.getDate() + 30);
-
+    let year = 2018,
+        month = 7,
+        day = 23,
+        hours = 7,
+        minute = 0,
+        second = 0,
+        milisecond = 0;
+    var countDownDate = new Date(year,month,day,hours,minute,second,milisecond);
     // Update the count down every 1 second
     var x = setInterval(function () {
 
