@@ -3,15 +3,6 @@ before_script:
 - bash ci/docker_install.sh > /dev/null
 
 # We test PHP7.0 (good luck with that)
-test:7.1:
-  image: php:7.1
-  script:
-  - phpunit --configuration .idea/jsLibraryMappings.xml
-  - phpunit --configuration .idea/misc.xml
-  - phpunit --configuration .idea/modules.xml
-  - phpunit --configuration .idea/php.xml
-  - phpunit --configuration .idea/vcs.xml
-
 pages:
   stage: deploy
   script:
