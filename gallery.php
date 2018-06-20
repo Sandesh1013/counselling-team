@@ -140,6 +140,7 @@
                     <div class="tab-pane fade in show active" id="campus" role="tabpanel">
                         <div class="col-md-12">
                             <div class="mdb-lightbox">
+                                <div class="row flex-center">
                                 <?php
                                 $dir_open = opendir('./images/gallery/campus');
 
@@ -157,6 +158,7 @@
 
                                 closedir($dir_open);
                                 ?>
+                                </div>
                             </div>
                         </div>
                     </div>
@@ -164,6 +166,7 @@
                     <div class="tab-pane fade" id="panel" role="tabpanel">
                         <div class="col-md-12">
                             <div class="mdb-lightbox">
+                                <div class="row flex-center">
                                 <?php
                                 $dir_open = opendir('./images/gallery/activities');
 
@@ -181,12 +184,14 @@
 
                                 closedir($dir_open);
                                 ?>
+                                </div>
                             </div>
                         </div>
                     </div>
                     <div class="tab-pane fade" id="pane2" role="tabpanel">
                         <div class="col-md-12">
                             <div class="mdb-lightbox">
+                                <div class="row flex-center">
                                 <?php
                                 $dir_open = opendir('./images/gallery/fests');
 
@@ -204,6 +209,7 @@
 
                                 closedir($dir_open);
                                 ?>
+                                </div>
                             </div>
                         </div>
                     </div>
