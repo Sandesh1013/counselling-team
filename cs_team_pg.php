@@ -1,87 +1,19 @@
-<!DOCTYPE html>
-<html lang="en">
+<?php
+include 'head.html';
+?>
 <head>
-    <meta charset="utf-8">
-    <meta content="width=device-width, initial-scale=1, maximum-scale=1.0, user-scalable=no" name="viewport">
-    <meta property="og:description" content="Counselling Service IITJ. Checklist and forms for IIT Jodhpur. Ask any Query regarding admission at IIT Jodhpur and about Life at IIT Jodhpur" />
-    <meta property="og:image" content="http://cs.iitj.ac.in/images/logo_og.jpg" />
-    <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <meta name="theme-color" content="#D3D3D3">
-    <meta name="description"
-          content="Counselling Service IITJ. Checklist and forms for IIT Jodhpur. Ask any Query regarding admission at IIT Jodhpur and about Life at IIT Jodhpur">
-    <meta name="robots" CONTENT="index, follow">
-    <meta name="keywords"
-          content="IITJ, IIT Jodhpur, Counselling Service, CS IITJ, CS, IIT, Jodhpur, Query, JEE Advance, Life in IITJ, Indian Institute of Technology Jodhpur"/>
     <title>CS Team - PG</title>
-    <!-- Font Awesome -->
-    <link rel="stylesheet" href="css/font-awesome.min.css">
-    <!-- Bootstrap core CSS -->
-    <link href="css/bootstrap.min.css" rel="stylesheet">
-    <!-- Material Design Bootstrap -->
-    <link href="css/compiled.min.css" rel="stylesheet">
-    <!-- Your custom styles (optional) -->
-    <link href="css/style.css" rel="stylesheet">
-
-    <link rel="shortcut icon" href="images/logo.png">
 </head>
 <body>
 <!--Navbar-->
-<nav class="navbar navbar-toggleable-md noscroll navbar-light fixed-top">
-    <div class="container">
-        <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse"
-                data-target="#navbarNav1" aria-controls="navbarNav1" aria-expanded="false"
-                aria-label="Toggle navigation">
-            <span class="navbar-toggler-icon"></span>
-        </button>
-        <a class="navbar-brand" href="/">
-            <img src="images/logo.png" class="img-logo"><strong>Counselling Service</strong>
-        </a>
-        <div>
-            <div class="collapse navbar-collapse" id="navbarNav1">
-                <ul class="navbar-nav mr-auto">
-                    <li class="nav-item">
-                        <a class="nav-link" href="index.html">Home</a>
-                    </li>
-                    <li class="nav-item dropdown btn-group active">
-                        <a class="nav-link dropdown-toggle" id="dropdownMenu1" data-toggle="dropdown"
-                           aria-haspopup="true" aria-expanded="false">CS Team<span class="sr-only">(current)</span></a>
-                        <div class="dropdown-menu dropdown" aria-labelledby="dropdownMenu1">
-                            <a class="dropdown-item" href="cs_team_ug.html">UG Team</a>
-                            <a class="dropdown-item active" href="#">PG Team</a>
-                        </div>
-                    </li>
-                    <li class="nav-item dropdown btn-group">
-                        <a class="nav-link dropdown-toggle" id="dropdownMenu2" data-toggle="dropdown"
-                           aria-haspopup="true" aria-expanded="false">Life @ IITJ</a>
-                        <div class="dropdown-menu dropdown" aria-labelledby="dropdownMenu1">
-                            <a class="dropdown-item" href="societies.html">Societies</a>
-                            <a class="dropdown-item" href="committees.html">Committees</a>
-                            <a class="dropdown-item" href="festivals.html">Festivals</a>
-                            <a class="dropdown-item" target="_blank" href="http://spc.iitj.ac.in/">Career Development
-                                Cell (Placement Cell)</a>
-                            <a class="dropdown-item" href="hostel.html">Hostels @IITJ</a>
-                        </div>
-                    </li>
-                    <li class="nav-item dropdown btn-group">
-                        <a class="nav-link dropdown-toggle" id="dropdownMenu3" data-toggle="dropdown"
-                           aria-haspopup="true" aria-expanded="false">FAQs</a>
-                        <div class="dropdown-menu dropdown" aria-labelledby="dropdownMenu3">
-                            <a href="general_faqs.html" class="dropdown-item">General FAQs</a>
-                            <a href="academics_faqs.html" class="dropdown-item">Academics FAQs</a>
-                            <a href="registration_faqs.html" class="dropdown-item">Registration FAQs</a>
-                            <a href="hostel_mess_faqs.html" class="dropdown-item">Hostel/Mess FAQs</a>
-                            <a href="misc_faqs.html" class="dropdown-item">Misc FAQs</a>
-                        </div>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="gallery.php">Gallery</a>
-                    </li>
-                </ul>
-
-            </div>
-        </div>
-    </div>
-</nav>
+<?php
+include 'navbar.html';
+?>
+<script>
+    document.getElementById('nav-2').classList.add('active');
+    document.getElementById('nav-2-2').classList.add('active');
+    document.getElementById('nav-2').children[0].innerHTML += '<span class="sr-only">(current)</span>';
+</script>
 <div class="top-fixer-2"></div>
 <!--Section: Team v.1-->
 <section class="section team-section container">
@@ -398,63 +330,6 @@
 <script type="text/javascript" src="js/lazysizes.min.js"></script>
 <br>
 <!--Footer-->
-<footer class="page-footer center-on-small-only blue-grey darken-4">
-
-    <!--Footer Links-->
-    <div class="container-fluid">
-        <div class="row">
-
-            <!--First column-->
-            <div class="col-md-5 offset-md-2">
-                <h5 class="title">CS - IITJ</h5>
-                <p>IIT Jodhpur Counselling Service team will be happy to help you anytime.</p>
-                <p>Join our freshers' forum:</p>
-                <a class="btn btn-lg btn-fb" role="button"
-                   href="https://www.facebook.com/profile.php?id=534300236607966" target="_blank"><i
-                        class="fa fa-facebook left"></i> Freshers' Forum</a>
-            </div>
-            <!--/.First column-->
-
-            <hr class="hidden-md-up">
-
-            <!--Second column-->
-            <div class="col-md-3 offset-md-1">
-                <h5 class="title">Quick Links</h5>
-                <ul>
-                    <li><a target="_blank" href="http://iitj.ac.in/">IIT Jodhpur</a></li>
-                    <li><a target="_blank" href="http://students.iitj.ac.in/">Students' Gymkhana</a></li>
-                    <li><a target="_blank" href="http://ignus.org/">Ignus</a></li>
-
-                </ul>
-            </div>
-            <!--/.Second column-->
-
-        </div>
-    </div>
-    <!--/.Footer Links-->
-
-    <hr>
-
-    <!--Social buttons-->
-    <div class="social-section">
-        <ul>
-            <li><a target="_blank" class="btn-floating btn-small btn-fb"
-                   href="https://www.facebook.com/CounsellingService.IITJodhpur/"><i class="fa fa-facebook"> </i></a>
-            </li>
-        </ul>
-    </div>
-    <!--/.Social buttons-->
-
-    <!--Copyright-->
-    <div class="footer-copyright">
-        <div class="container-fluid">
-            © 2018 Copyright: <a href="index.html">Counselling Service - IIT Jodhpur </a>
-
-        </div>
-    </div>
-    <!--/.Copyright-->
-
-</footer>
-<!--/.Footer-->
-</body>
-</html>
+<?php
+include 'footer.html';
+?>
