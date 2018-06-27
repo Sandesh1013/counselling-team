@@ -305,39 +305,49 @@ include 'navbar.html';
         <div class="col-sm-4">
             <div class="row text-center flex-center flex-column">
                 <div>
-                    <a class="btn-floating btn-small mdb-color"><i class="fa fa-map-marker"></i></a>
+                    <a href = "https://www.google.com/maps/dir//Indian+Institute+of+Technology+Jodhpur,
+                    +NH+65,+Nagaur+Road,+Dist+Jodhpur,+Karwar,+Rajasthan+342037/@23.6259304,70.4746297"
+                       target="_blank" class="btn-floating btn-small mdb-color direction-link"><i class="fa fa-map-marker"></i></a>
                     <p>NH 65, Karwad, Jodhpur</p>
                     <p>Rajasthan</p>
                 </div>
 
                 <div>
-                    <a class="btn-floating btn-small mdb-color"><i class="fa fa-phone"></i></a>
+                    <a href="tel:+912912801906" class="btn-floating btn-small mdb-color"><i class="fa fa-phone"></i></a>
                     <p><a href="tel:+912912801906">+91-291-2801906</a></p>
                     <p>Mon - Fri, 10:00-17:00</p>
                 </div>
 
                 <div id="auto">
-                    <a class="btn-floating btn-small mdb-color"><i class="fa fa-envelope"></i></a>
+                    <a href="mailto:counselling@iitj.ac.in" class="btn-floating btn-small mdb-color"><i class="fa fa-envelope"></i></a>
                     <p>Email us at</p>
                     <p><a href="mailto:counselling@iitj.ac.in">counselling@iitj.ac.in</a></p>
                 </div>
-                <!--<div class="mt-2">
-                    <h3 class="h3-responsive">Autorickshaws:</h3>
-                    <ul>
-                        <li class="mb-0">
-                            <strong>Sankar</strong> (Karwad to Jodhpur): 9660720013
-                        </li>
-                        <li class="mb-0">
-                            <strong>Sonu</strong> (Jodhpur to Karwad): 9166820621
-                        </li>
-                        <li class="mb-0">
-                            <strong>Fixed Price</strong>: Rs 300
-                        </li>
-                    </ul>
-                </div>-->
+<!--                <div class="mt-2">-->
+<!--                    <h3 class="h3-responsive">Autorickshaws:</h3>-->
+<!--                    <ul>-->
+<!--                        <li class="mb-0">-->
+<!--                            <strong>Sankar</strong> (Karwad to Jodhpur): 9660720013-->
+<!--                        </li>-->
+<!--                        <li class="mb-0">-->
+<!--                            <strong>Sonu</strong> (Jodhpur to Karwad): 9166820621-->
+<!--                        </li>-->
+<!--                        <li class="mb-0">-->
+<!--                            <strong>Fixed Price</strong>: Rs 300-->
+<!--                        </li>-->
+<!--                    </ul>-->
+<!--                </div>-->
             </div>
         </div>
     </div>
+</div>
+<div class="container text-center mt-2">
+    <h2 class="h2-responsive">
+        <a class="direction-link" href="https://www.google.com/maps/dir//Indian+Institute+of+Technology+Jodhpur,
+                    +NH+65,+Nagaur+Road,+Dist+Jodhpur,+Karwar,+Rajasthan+342037/@23.6259304,70.4746297"
+        target="_blank">
+            Direction toward us</a>
+    </h2>
 </div>
 
 
@@ -389,6 +399,31 @@ include 'navbar.html';
             $(this).carousel('prev');
         })
     });
+
+
+    // https://www.google.com/maps/dir//26.47251,73.1139972/@26.47251,73.1139972
+</script>
+<script>
+    function initialize() {
+        if (navigator.geolocation) {
+            navigator.geolocation.getCurrentPosition(get_dir);
+        }
+    }
+    function get_dir(position) {
+            if( (navigator.platform.indexOf("iPhone") != -1)
+                || (navigator.platform.indexOf("iPod") != -1)
+                || (navigator.platform.indexOf("iPad") != -1)){
+                $(".direction-link").attr("href", "maps://www.google.com/maps/dir/"+position.coords.latitude+
+                    ","+position.coords.longitude+"/Indian+Institute+of+Technology+Jodhpur,+NH+65,+Nagaur+Road," +
+                    "+Dist+Jodhpur,+Karwar,+Rajasthan+342037/@23.6259304,70.4746297");
+            }
+            else{
+                $(".direction-link").attr("href", "https://www.google.com/maps/dir/"+position.coords.latitude+
+                    ","+position.coords.longitude+"/Indian+Institute+of+Technology+Jodhpur,+NH+65,+Nagaur+Road," +
+                    "+Dist+Jodhpur,+Karwar,+Rajasthan+342037/@23.6259304,70.4746297");
+            }
+        }
+        initialize();
 </script>
 <br>
 <!--Footer-->
