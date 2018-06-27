@@ -359,72 +359,10 @@ include 'navbar.html';
 <!-- Bootstrap core JavaScript -->
 <script type="text/javascript" src="js/compiled.min.js"></script>
 <!-- MDB core JavaScript -->
-
 <script src="https://maps.google.com/maps/api/js?key=AIzaSyBwt2_JRQm6pHP0Zixc82kwtPWVy1dyKRE"></script>
-
-<script>
-    function init_map() {
-
-        var var_location = new google.maps.LatLng(26.475280, 73.114761);
-
-        var var_mapoptions = {
-            center: var_location,
-            zoom: 14
-        };
-
-        var var_marker = new google.maps.Marker({
-            position: var_location,
-            map: var_map,
-            title: "IIT Jodhpur"
-        });
-
-        var var_map = new google.maps.Map(document.getElementById("map-container"),
-            var_mapoptions);
-
-        var_marker.setMap(var_map);
-    }
-
-    google.maps.event.addDomListener(window, 'load', init_map);
-</script>
-<script>
-    $(document).ready(function () {
-        $("#carousel-example-1").carousel({interval: 5000});
-    });
-
-    $(document).ready(function () {
-        $('#carousel-example-1').hammer().on('swipeleft', function () {
-            $(this).carousel('next');
-        })
-        $('#carousel-example-1').hammer().on('swiperight', function () {
-            $(this).carousel('prev');
-        })
-    });
-
-
-    // https://www.google.com/maps/dir//26.47251,73.1139972/@26.47251,73.1139972
-</script>
-<script>
-    function initialize() {
-        if (navigator.geolocation) {
-            navigator.geolocation.getCurrentPosition(get_dir);
-        }
-    }
-    function get_dir(position) {
-            if( (navigator.platform.indexOf("iPhone") != -1)
-                || (navigator.platform.indexOf("iPod") != -1)
-                || (navigator.platform.indexOf("iPad") != -1)){
-                $(".direction-link").attr("href", "maps://www.google.com/maps/dir/"+position.coords.latitude+
-                    ","+position.coords.longitude+"/Indian+Institute+of+Technology+Jodhpur,+NH+65,+Nagaur+Road," +
-                    "+Dist+Jodhpur,+Karwar,+Rajasthan+342037/@23.6259304,70.4746297");
-            }
-            else{
-                $(".direction-link").attr("href", "https://www.google.com/maps/dir/"+position.coords.latitude+
-                    ","+position.coords.longitude+"/Indian+Institute+of+Technology+Jodhpur,+NH+65,+Nagaur+Road," +
-                    "+Dist+Jodhpur,+Karwar,+Rajasthan+342037/@23.6259304,70.4746297");
-            }
-        }
-        initialize();
-</script>
+<script src="js/home-map.js"></script>
+<script src="js/carousel.js"></script>
+<script src="js/direction.js"></script>
 <br>
 <!--Footer-->
 <?php
