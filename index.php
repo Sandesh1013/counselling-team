@@ -362,7 +362,6 @@ include 'navbar.html';
 <script src="https://maps.google.com/maps/api/js?key=AIzaSyBwt2_JRQm6pHP0Zixc82kwtPWVy1dyKRE"></script>
 <script src="js/home-map.js"></script>
 <script src="js/carousel.js"></script>
-<script src="js/direction.js"></script>
 <br>
 <!--Footer-->
 <?php
