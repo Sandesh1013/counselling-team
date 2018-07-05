@@ -38,7 +38,7 @@ include 'navbar.html';
                     <strong>A.</strong>
                     Last year statistics as mentioned at jossa site are as follows;
                     (OR=Opening Rank , CR = Closing Rank)
-                    <table class="table">
+                    <table class="table-responsive table">
                         <thead>
                         <tr>
                             <th rowspan="2">Branch</th>
@@ -396,13 +396,16 @@ include 'navbar.html';
                     <strong>A.</strong>
                     In 1st semester of B.Tech most of the courses are common for all branches. As per previous year,
                     the common courses for mechanical, electrical and computer science branches are
-                    <ol type="a">
+                    <ol type="1">
+                        <li>MA111 Linear Algebra and Calculus</li>
                         <li>ME111 System Exploration - Drawing</li>
                         <li>CS111 Computer Programming</li>
-                        <li>PH111 Electromagnetism and Optics</li>
-                        <li>MA111 Linear Algebra and Calculus</li>
                         <li>HS111 English/Foreign Language</li>
                         <li>PH111 Physical Excercise I</li>
+                        <li>
+                            PH111 Electromagnetism and Optics (For CSE and EE student)<br>
+                            ME112 engineering Materials (For ME student)
+                        </li>
                         <li>
                             CY211 chemistry (For CSE and ME students) <br>
                             EE111 Physics of Semiconductor Devices (For EE students)
@@ -451,7 +454,7 @@ include 'navbar.html';
                     IIT Jodhpur has established good number of teaching and research laboratories and facilities,
                     which aid in elevating the students from minimalist academic concerns to inquisitive world of
                     scientific arena. Some of the laboratories are listed below:
-                    <ol type="a">
+                    <ol>
                         <li>Advance Manufacturing Laboratory</li>
                         <li>Biomolecular Information Processing Laboratory</li>
                         <li>Central Workshop</li>

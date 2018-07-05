@@ -46,7 +46,7 @@ include 'navbar.html';
                         if ($filename != "." && $filename != "..") {
                             $link = "<figure class=\"col-md-4 col-lg-3 col-6\">
                         <a href='$dir$filename' data-size=\"1600x1067\">
-                            <img alt=\"picture\" src=\"$dir$filename\" class=\"lazyload img-fluid\">
+                            <img alt=\"picture\" src=\"images/sqloader.gif\" data-src=\"$dir$filename\" class=\"lazyload img-fluid\">
                         </a>
                     </figure>
                     ";
@@ -68,6 +68,7 @@ include 'navbar.html';
 <script type="text/javascript" src="js/jquery-3.1.1.min.js"></script>
 <!-- Bootstrap core JavaScript -->
 <script type="text/javascript" src="js/compiled.min.js"></script>
+<script type="text/javascript" src="js/lazysizes.min.js"></script>
 
 <!-- SCRIPTS -->
 <script>

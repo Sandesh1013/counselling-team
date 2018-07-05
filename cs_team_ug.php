@@ -44,8 +44,7 @@ include 'navbar.html';
     <div class="divider-new">
         <h2 class="h2-responsive">Student Heads</h2>
     </div>
-    <div class="row text-center">
-
+    <div class="row text-center" id = "head">
 
         <div class="col-lg-6 col-md-6 mb-r">
 
@@ -87,7 +86,7 @@ include 'navbar.html';
 
 
     <div class="divider-new"></div>
-    <div class="row text-center">
+    <div class="row text-center" id = "assistant-head">
 
 
         <div class="col-lg-4 col-md-6 mb-r">
@@ -273,7 +272,7 @@ include 'navbar.html';
 
     <div class="divider-new"></div>
     <!--First row-->
-    <div class="row text-center">
+    <div class="row text-center" id="student-guide">
 
         <div class="col-lg-4 col-md-6 mb-r">
 
@@ -712,7 +711,7 @@ include 'navbar.html';
         <div class="col-lg-4 col-md-6 mb-r">
 
             <div class="avatar">
-                <img src="images/sqloader.gif" data-src="images/avatar/missing.png" class="lazyload rounded-circle">
+                <img src="images/sqloader.gif" data-src="images/avatar/rishav.jpg" class="lazyload rounded-circle">
             </div>
             <h4>Rishav Jain</h4>
             <h5><i class="icons-sm-i fa fa-whatsapp green-text"></i><a
@@ -737,7 +736,6 @@ include 'navbar.html';
             <a class="icons-sm email-ic" href="mailto:gattani.2@iitj.ac.in"><i class="fa fa-envelope-o"></i> </a>
             <a class="icons-sm fb-ic" target="_blank" href="https://www.facebook.com/shubham.gattani.1276"><i
             class="fa fa-facebook"> </i></a>
-
         </div>
 
 
