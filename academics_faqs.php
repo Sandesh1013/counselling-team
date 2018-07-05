@@ -38,7 +38,7 @@ include 'navbar.html';
                     <strong>A.</strong>
                     Last year statistics as mentioned at jossa site are as follows;
                     (OR=Opening Rank , CR = Closing Rank)
-                    <table class="table">
+                    <table class="table-responsive table">
                         <thead>
                         <tr>
                             <th rowspan="2">Branch</th>
