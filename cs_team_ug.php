@@ -711,7 +711,7 @@ include 'navbar.html';
         <div class="col-lg-4 col-md-6 mb-r">
 
             <div class="avatar">
-                <img src="images/sqloader.gif" data-src="images/avatar/missing.png" class="lazyload rounded-circle">
+                <img src="images/sqloader.gif" data-src="images/avatar/rishav.jpg" class="lazyload rounded-circle">
             </div>
             <h4>Rishav Jain</h4>
             <h5><i class="icons-sm-i fa fa-whatsapp green-text"></i><a
@@ -755,8 +755,6 @@ include 'navbar.html';
 <script type="text/javascript" src="js/compiled.min.js"></script>
 
 <script type="text/javascript" src="js/lazysizes.min.js"></script>
-<!--<script type="text/javascript" src="js/studentprofile.js"></script>-->
-<!--<script type="text/javascript" src="js/studentdata.js"></script>-->
 <!--Footer-->
 <?php
 include 'footer.html';
