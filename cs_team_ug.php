@@ -755,6 +755,8 @@ include 'navbar.html';
 <script type="text/javascript" src="js/compiled.min.js"></script>
 
 <script type="text/javascript" src="js/lazysizes.min.js"></script>
+<!--<script type="text/javascript" src="js/studentprofile.js"></script>-->
+<!--<script type="text/javascript" src="js/studentdata.js"></script>-->
 <!--Footer-->
 <?php
 include 'footer.html';
