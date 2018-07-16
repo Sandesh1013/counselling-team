@@ -16,6 +16,12 @@ include 'navbar.html';
 </script>
 <div class="top-fixer-2"></div>
 <section class="section team-section container">
+    <?php
+    include 'faq.php';
+    ?>
+    <script>
+        document.getElementById('nav-2-misc').classList.add('active');
+    </script>
     <!--Section heading-->
     <h1 class="section-heading">Misc FAQs</h1>
     <!--Section description-->

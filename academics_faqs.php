@@ -17,6 +17,12 @@ include 'navbar.html';
 
 <div class="top-fixer-2"></div>
 <section class="section team-section container">
+    <?php
+    include 'faq.php';
+    ?>
+    <script>
+        document.getElementById('nav-2-academics').classList.add('active');
+    </script>
     <!--Section heading-->
     <h1 class="section-heading">Academics FAQs</h1>
     <!--Section description-->
