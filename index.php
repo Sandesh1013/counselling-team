@@ -221,11 +221,12 @@ include 'navbar.html';
                         <h4 class="card-title">Important Links</h4>
                         <!--Text-->
                         <p class="card-text">
-                        <ul>
+                        <ol>
                             <li><a href="map/index.html">Hotel Map</a></li>
                             <li><a href="bus_schedule.php">Bus Schedule</a></li>
-                            <li><a href="form_required.php">Forms and Documents</a></li>
-                        </ul>
+<!--                            <li><a href="form_required.php">Forms and Documents</a></li>-->
+                            <li><a href="general_faqs.php">General Queries</a></li>
+                        </ol>
                         </p>
                     </div>
                     <!--/.Card content-->
