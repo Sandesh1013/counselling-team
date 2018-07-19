@@ -1,19 +1,19 @@
 <?php
-    include 'head.html';
+include 'head.html';
 ?>
-<head>
-    <title>Counselling Service - IIT Jodhpur</title>
-</head>
-<body>
+    <head>
+        <title>Counselling Service - IIT Jodhpur</title>
+    </head>
+    <body>
 <div id="fb-root"></div>
 <script>(function (d, s, id) {
-    var js, fjs = d.getElementsByTagName(s)[0];
-    if (d.getElementById(id)) return;
-    js = d.createElement(s);
-    js.id = id;
-    js.src = "//connect.facebook.net/en_GB/sdk.js#xfbml=1&version=v2.9";
-    fjs.parentNode.insertBefore(js, fjs);
-}(document, 'script', 'facebook-jssdk'));</script>
+        var js, fjs = d.getElementsByTagName(s)[0];
+        if (d.getElementById(id)) return;
+        js = d.createElement(s);
+        js.id = id;
+        js.src = "//connect.facebook.net/en_GB/sdk.js#xfbml=1&version=v2.9";
+        fjs.parentNode.insertBefore(js, fjs);
+    }(document, 'script', 'facebook-jssdk'));</script>
 <?php
 include 'navbar.html';
 ?>
@@ -179,33 +179,48 @@ include 'navbar.html';
 <!--/.Carousel Wrapper-->
 <section id="info">
     <div class="container">
-        <div class="divider-new">
+        <div class="divider-new pb-2">
             <h2 class="h2-responsive">Our Motto</h2>
         </div>
-        <div class="col-sm card-block">
-            <p class="text-justify">The upcoming years of your stay at IIT Jodhpur will give your life a new direction
-                both academically and personally. As the time passes, there will be various challenges waiting for you.
-                We, the Student Counselling Service is devoted to provide personal guidance and necessary resources to students
-                to deal with all these challenges. The team tries to ensure that IITJ is not just an institute, but a
-                home away from home for you.</p>
+        <div class="row">
+            <div class="col-sm-8 card-block m-0 pt-5">
+                <p class="text-justify">The upcoming years of your stay at IIT Jodhpur will give your life a new direction
+                    both academically and personally. As the time passes, there will be various challenges waiting for you.
+                    We, the Student Counselling Service is devoted to provide personal guidance and necessary resources to students
+                    to deal with all these challenges. The team tries to ensure that IITJ is not just an institute, but a
+                    home away from home for you.</p>
+            </div>
+            <div class="col-sm-4 m-0 pt-0">
+                <div class="text-justify card mt-2" role="list" style="height: 16rem;">
+                    <h3 class="h3-responsive card-header"><strong>Announcements</strong></h3>
+                    <ul class="card-block pl-5" style="overflow-y: scroll;">
+                        <li>All those who are not able to pay the fee using online payment portal i.e. Credit/Debit
+                            Card or Net banking can pay the fee by making two separate Demand Drafts(DD) for the Semester
+                            Fee and the Mess Fee in the favour of <b><u>Fees Collection Account IIT Jodhpur</u></b>
+                            payable at IIT Jodhpur.
+                        </li>
+                    </ul>
+                </div>
+            </div>
         </div>
         <div class="divider-new">
             <h2>Info</h2>
         </div>
         <div class="row flex-center">
-<!--            <div class="col-sm-4 card-block">-->
-<!--                <div class="card">-->
-<!--                    <img class="img-fluid" src="images/dates.png" alt="Arrival dates">-->
-<!--                    <div class="card-block" style="height: 12.5rem;">-->
-<!--                        <h4 class="card-title">Arrival Dates</h4>-->
-<!--                        <p class="card-text">-->
-<!--                        <ul>-->
-<!--                            <li>The reporting date for UG students is <br>July 22, 2017</li>-->
-<!--                        </ul>-->
-<!--                        </p>-->
-<!--                    </div>-->
-<!--                </div>-->
-<!--            </div>-->
+            <div class="col-sm-4 card-block">
+                <div class="card">
+                    <img class="img-fluid" src="images/dates.png" alt="Arrival dates">
+                    <div class="card-block" style="height: 12.5rem;">
+                        <h4 class="card-title">Arrival Dates<img src="images/newicon.gif"></h4>
+                        <p class="card-text">
+                        <ul>
+                            <li>The reporting date for UG students is July 22, 2018</li>
+                            <li>The reporting date for PG students is August 16,2018</li>
+                        </ul>
+                        </p>
+                    </div>
+                </div>
+            </div>
 
             <div class="col-sm-4 card-block">
                 <!--Card-->
@@ -224,7 +239,7 @@ include 'navbar.html';
                         <ol>
                             <li><a href="map/index.html">Hotel Map</a></li>
                             <li><a href="bus_schedule.php">Bus Schedule</a></li>
-<!--                            <li><a href="form_required.php">Forms and Documents</a></li>-->
+                            <li><a href="form_required.php">Forms and Documents</a></li>
                             <li><a href="general_faqs.php">General Queries</a></li>
                         </ol>
                         </p>
@@ -240,8 +255,8 @@ include 'navbar.html';
                          data-height="335" data-hide-cover="false" data-show-facepile="true">
                         <blockquote cite="https://www.facebook.com/CounsellingService.IITJodhpur/"
                                     class="fb-xfbml-parse-ignore"><a
-                                href="https://www.facebook.com/CounsellingService.IITJodhpur/">IIT Jodhpur
-                        </a></blockquote>
+                                    href="https://www.facebook.com/CounsellingService.IITJodhpur/">IIT Jodhpur
+                            </a></blockquote>
                     </div>
                     <!--/.Card content-->
                 </div>
@@ -251,8 +266,8 @@ include 'navbar.html';
                          data-height="305" data-hide-cover="false" data-show-facepile="true">
                         <blockquote cite="https://www.facebook.com/CounsellingService.IITJodhpur/"
                                     class="fb-xfbml-parse-ignore"><a
-                                href="https://www.facebook.com/CounsellingService.IITJodhpur/">IIT Jodhpur
-                        </a></blockquote>
+                                    href="https://www.facebook.com/CounsellingService.IITJodhpur/">IIT Jodhpur
+                            </a></blockquote>
                     </div>
                     <!--/.Card content-->
                 </div>
@@ -262,8 +277,8 @@ include 'navbar.html';
                          data-height="260" data-hide-cover="false" data-show-facepile="true">
                         <blockquote cite="https://www.facebook.com/CounsellingService.IITJodhpur/"
                                     class="fb-xfbml-parse-ignore"><a
-                                href="https://www.facebook.com/CounsellingService.IITJodhpur/">IIT Jodhpur
-                        </a></blockquote>
+                                    href="https://www.facebook.com/CounsellingService.IITJodhpur/">IIT Jodhpur
+                            </a></blockquote>
                     </div>
                     <!--/.Card content-->
                 </div>
@@ -273,8 +288,8 @@ include 'navbar.html';
                          data-height="235" data-hide-cover="false" data-show-facepile="true">
                         <blockquote cite="https://www.facebook.com/CounsellingService.IITJodhpur/"
                                     class="fb-xfbml-parse-ignore"><a
-                                href="https://www.facebook.com/CounsellingService.IITJodhpur/">IIT Jodhpur
-                        </a></blockquote>
+                                    href="https://www.facebook.com/CounsellingService.IITJodhpur/">IIT Jodhpur
+                            </a></blockquote>
                     </div>
                     <!--/.Card content-->
                 </div>
@@ -284,8 +299,8 @@ include 'navbar.html';
                          data-height="330" data-hide-cover="false" data-show-facepile="true">
                         <blockquote cite="https://www.facebook.com/CounsellingService.IITJodhpur/"
                                     class="fb-xfbml-parse-ignore"><a
-                                href="https://www.facebook.com/CounsellingService.IITJodhpur/">IIT Jodhpur
-                        </a></blockquote>
+                                    href="https://www.facebook.com/CounsellingService.IITJodhpur/">IIT Jodhpur
+                            </a></blockquote>
                     </div>
                     <!--/.Card content-->
                 </div>
@@ -324,20 +339,20 @@ include 'navbar.html';
                     <p>Email us at</p>
                     <p><a href="mailto:counselling@iitj.ac.in">counselling@iitj.ac.in</a></p>
                 </div>
-<!--                <div class="mt-2">-->
-<!--                    <h3 class="h3-responsive">Autorickshaws:</h3>-->
-<!--                    <ul>-->
-<!--                        <li class="mb-0">-->
-<!--                            <strong>Sankar</strong> (Karwad to Jodhpur): 9660720013-->
-<!--                        </li>-->
-<!--                        <li class="mb-0">-->
-<!--                            <strong>Sonu</strong> (Jodhpur to Karwad): 9166820621-->
-<!--                        </li>-->
-<!--                        <li class="mb-0">-->
-<!--                            <strong>Fixed Price</strong>: Rs 300-->
-<!--                        </li>-->
-<!--                    </ul>-->
-<!--                </div>-->
+                <!--                <div class="mt-2">-->
+                <!--                    <h3 class="h3-responsive">Autorickshaws:</h3>-->
+                <!--                    <ul>-->
+                <!--                        <li class="mb-0">-->
+                <!--                            <strong>Sankar</strong> (Karwad to Jodhpur): 9660720013-->
+                <!--                        </li>-->
+                <!--                        <li class="mb-0">-->
+                <!--                            <strong>Sonu</strong> (Jodhpur to Karwad): 9166820621-->
+                <!--                        </li>-->
+                <!--                        <li class="mb-0">-->
+                <!--                            <strong>Fixed Price</strong>: Rs 300-->
+                <!--                        </li>-->
+                <!--                    </ul>-->
+                <!--                </div>-->
             </div>
         </div>
     </div>
@@ -346,7 +361,7 @@ include 'navbar.html';
     <h2 class="h2-responsive">
         <a class="direction-link" href="https://www.google.com/maps/dir//Indian+Institute+of+Technology+Jodhpur,
                     +NH+65,+Nagaur+Road,+Dist+Jodhpur,+Karwar,+Rajasthan+342037/@23.6259304,70.4746297"
-        target="_blank">
+           target="_blank">
             Direction toward us</a>
     </h2>
 </div>
@@ -366,5 +381,5 @@ include 'navbar.html';
 <br>
 <!--Footer-->
 <?php
-    include 'footer.html';
+include 'footer.html';
 ?>
