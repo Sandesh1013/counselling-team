@@ -13,11 +13,13 @@ let initialiseMap = function () {
 let plotHotelList = function () {
     for (var i = 0; i < hotelList.length; i++) {
         let hotel = L.marker([hotelList[i].lat, hotelList[i].lng]).addTo(mymap);
-        let hotelInfo = "<b>" + "Hotel: </b>" + hotelList[i].name + "<br> <b> Address: </b>" + hotelList[i].address + "<br> <b> Tariff: </b>" + hotelList[i].tarrif + "<br> <b> Contact: </b>" + hotelList[i].contact;
+        let hotelInfo = "<b>" + "Hotel: </b>" + hotelList[i].name + "<br> <b> Address: </b>" + hotelList[i].address + "<br> <b> Tariff: </b>" + hotelList[i].tarrif + "<br> <b> Contact: </b>" + hotelList[i].contact +"<br> <a href=''>Reach There</a>";
         hotel.bindTooltip(hotelInfo);
     }
 };
-
+function showHotel(hotel, hotelInfo) {
+    hotel.bindTooltip(hotelInfo);
+}
 let plotCampus = function () {
     let permanentCampusLatLng = [26.47649, 73.122371];
     let mbmCampusLatLng = [26.27068, 73.034893];

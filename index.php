@@ -182,30 +182,42 @@ include 'navbar.html';
         <div class="divider-new">
             <h2 class="h2-responsive">Our Motto</h2>
         </div>
-        <div class="col-sm card-block">
-            <p class="text-justify">The upcoming years of your stay at IIT Jodhpur will give your life a new direction
-                both academically and personally. As the time passes, there will be various challenges waiting for you.
-                We, the Student Counselling Service is devoted to provide personal guidance and necessary resources to students
-                to deal with all these challenges. The team tries to ensure that IITJ is not just an institute, but a
-                home away from home for you.</p>
+        <div class="row">
+            <div class="col-sm-8 card-block">
+                <p class="text-justify">The upcoming years of your stay at IIT Jodhpur will give your life a new direction
+                    both academically and personally. As the time passes, there will be various challenges waiting for you.
+                    We, the Student Counselling Service is devoted to provide personal guidance and necessary resources to students
+                    to deal with all these challenges. The team tries to ensure that IITJ is not just an institute, but a
+                    home away from home for you.</p>
+            </div>
+            <div class="col-sm-4">
+            <div class="text-justify card mt-2" role="list" style="height: 16rem;">
+                <h3 class="h3-responsive card-header"><strong>Announcements</strong></h3>
+                <ol class="card-block pl-5" style="overflow-y: scroll;">
+                    <li>Offer of Admission from IIT Jodhpur</li>
+                    <li>JEE Advance Admit card</li>
+                </ol>
+            </div>
+            </div>
         </div>
         <div class="divider-new">
             <h2>Info</h2>
         </div>
         <div class="row flex-center">
-<!--            <div class="col-sm-4 card-block">-->
-<!--                <div class="card">-->
-<!--                    <img class="img-fluid" src="images/dates.png" alt="Arrival dates">-->
-<!--                    <div class="card-block" style="height: 12.5rem;">-->
-<!--                        <h4 class="card-title">Arrival Dates</h4>-->
-<!--                        <p class="card-text">-->
-<!--                        <ul>-->
-<!--                            <li>The reporting date for UG students is <br>July 22, 2017</li>-->
-<!--                        </ul>-->
-<!--                        </p>-->
-<!--                    </div>-->
-<!--                </div>-->
-<!--            </div>-->
+            <div class="col-sm-4 card-block">
+                <div class="card">
+                    <img class="img-fluid" src="images/dates.png" alt="Arrival dates">
+                    <div class="card-block" style="height: 12.5rem;">
+                        <h4 class="card-title">Arrival Dates<img src="images/newicon.gif"></h4>
+                        <p class="card-text">
+                        <ul>
+                            <li>The reporting date for UG students is July 22, 2018</li>
+                            <li>The reporting date for PG students is August 16,2018</li>
+                        </ul>
+                        </p>
+                    </div>
+                </div>
+            </div>
 
             <div class="col-sm-4 card-block">
                 <!--Card-->
@@ -224,7 +236,7 @@ include 'navbar.html';
                         <ol>
                             <li><a href="map/index.html">Hotel Map</a></li>
                             <li><a href="bus_schedule.php">Bus Schedule</a></li>
-<!--                            <li><a href="form_required.php">Forms and Documents</a></li>-->
+                            <li><a href="form_required.php">Forms and Documents</a></li>
                             <li><a href="general_faqs.php">General Queries</a></li>
                         </ol>
                         </p>

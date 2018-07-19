@@ -518,7 +518,7 @@ include 'navbar.html';
             <h5><i class="icons-sm-i fa fa-whatsapp green-text"></i><a
                     href="https://api.whatsapp.com/send?phone=919897737859">+91-9897737859</a></h5>
             <h5><strong>Hometown: </strong>Haldwani, Uttrakhand<br><strong>Branch: </strong>ME</h5>
-            <p>"I have no special talent. I am only passionately curious.
+            <p>"I have no special talent. I am only passionately curious. <br>
                 ME Student | Observer | Gamer "</p>
             <a class="icons-sm email-ic" href="mailto:joshi.6@iitj.ac.in"><i class="fa fa-envelope-o"></i> </a>
             <a class="icons-sm fb-ic" target="_blank" href="https://www.facebook.com/woods.saw"><i

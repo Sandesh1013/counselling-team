@@ -103,7 +103,7 @@ include 'navbar.html';
     // Set the date we're counting down to
     let year = 2018,
         month = 7,
-        day = 23,
+        day = 22,
         hours = 7,
         minute = 0,
         second = 0,
