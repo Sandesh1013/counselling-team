@@ -29,22 +29,22 @@ include 'navbar.html';
         <div class="text-justify card mt-2" role="list">
             <h3 class="h3-responsive card-header"><strong>Documents needed to be brought</strong></h3>
             <ol class="card-block pl-5">
-                <li>Offer of Admission from IIT Jodhpur</li>
-                <li>JEE Advance Admit card</li>
+                <li>Proof of payment</li>
+                <li>Income Certificate (For signing authorities <a href="form/Income%20Certificate%20Format.pdf"
+                                                                   download="Income Certificate Issuing Authorities.pdf">click here</a>)</li>
+                <li>Course Allotment Letter from JOSAA</li>
+                <li>Admit Card of JEE (Advanced) 2018</li>
+                <li>Mark Sheet of Class XII</li>
+                <li>Passing Certificate</li>
+                <li>School Leaving/Transfer Certificate (as applicable)</li>
+                <li>Class X (High School) Board Certificate or any other Certificate as proof of Date of Birth</li>
+                <li>Character Certificate from last attended school/college</li>
+                <li>Valid Certificate of Category in the prescribed format (in case of OBC (NCL), SC,
+                    ST, PwD and DS students only) issued by a Competent Authority</li>
                 <li>Mark sheet of class 10</li>
-                <li>Certificate of passing of class 10</li>
-                <li>Mark sheet of class 12</li>
-                <li>Certificate of passing of class 12</li>
-                <li>Minimun Eligibility Criterion met in the qualifying class 12 examination</li>
-                <li>Date of birth certificate</li>
-                <li>Caste certificate (for SC, ST and OBL(NCL) students)</li>
-                <li>Parental Income Certificate</li>
-                <li>Physical Disability Certificate (for PwD student)</li>
-                <li>Copy of Aadhar card</li>
-                <li>Four Passport size photographs (with name on back side)</li>
-                <li>Medical Reports (Format given above)</li>
-                <li>Proof of FEE payment (if applicable)</li>
-                <li>JoSSA Allotment Letter</li>
+                <li>Family Income Certificate (as per Form I, I1, I2 and I3)</li>
+                <li>Medical Reports (M1 - M8)</li>
+                <li>Six Passport size photographs</li>
             </ol>
         </div>
         <div class="card text-justify mt-2">
