@@ -30,7 +30,7 @@ include 'navbar.html';
             <h3 class="h3-responsive card-header"><strong>Documents needed to be brought</strong></h3>
             <ol class="card-block pl-5">
                 <li>Proof of payment</li>
-                <li>Income Certificate (For signing authorities <a href="form/Income%20Certificate%20Format.pdf"
+                <li>Income Certificate (For signing authorities <a href="form/Income%20Certificate%20Issuing%20Authorities.pdf"
                                                                    download="Income Certificate Issuing Authorities.pdf">click here</a>)</li>
                 <li>Course Allotment Letter from JOSAA</li>
                 <li>Admit Card of JEE (Advanced) 2018</li>
