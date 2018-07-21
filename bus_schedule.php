@@ -10,8 +10,8 @@
 include 'navbar.html';
 ?>
 <script>
-    document.getElementById('nav-1').classList.add('active');
-    document.getElementById('nav-1').children[0].innerHTML += '<span class="sr-only">(current)</span>';
+    document.getElementById('nav-8').classList.add('active');
+    document.getElementById('nav-8').children[0].innerHTML += '<span class="sr-only">(current)</span>';
 </script>
 <div class="top-fixer-2"></div>
 <section class="section team-section container">

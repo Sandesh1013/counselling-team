@@ -214,21 +214,6 @@ include 'navbar.html';
         </div>
         <div class="row flex-center">
             <div class="col-sm-4 card-block">
-                <div class="card">
-                    <img class="img-fluid" src="images/dates.png" alt="Arrival dates">
-                    <div class="card-block" style="height: 12.5rem;">
-                        <h4 class="card-title">Arrival Dates<img src="images/newicon.gif"></h4>
-                        <p class="card-text">
-                        <ul>
-                            <li>The reporting date for UG students is July 22, 2018</li>
-                            <li>The reporting date for PG students is August 16,2018</li>
-                        </ul>
-                        </p>
-                    </div>
-                </div>
-            </div>
-
-            <div class="col-sm-4 card-block">
                 <!--Card-->
                 <div class="card">
 
@@ -253,6 +238,22 @@ include 'navbar.html';
                     <!--/.Card content-->
                 </div>
             </div>
+
+            <div class="col-sm-4 card-block">
+                <div class="card">
+                    <!--<img class="img-fluid" src="images/dates.png" alt="Arrival dates">-->
+                    <div class="card-block" style="height: 12.5rem;">
+                        <h4 class="card-title">Arrival Dates<img src="images/newicon.gif"></h4>
+                        <p class="card-text">
+                        <ul>
+                            <li>The reporting date for UG students is July 22, 2018</li>
+                            <li>The reporting date for PG students is August 16,2018</li>
+                        </ul>
+                        </p>
+                    </div>
+                </div>
+            </div>
+
             <div class="col-sm-4 card-block">
                 <!--Card-->
                 <div class="card hidden-lg-down" style="padding: 0.6rem;">
