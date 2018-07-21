@@ -20,7 +20,8 @@ include 'navbar.html';
         <p>
         A help desk will be there on the <b>Platform No. 1 on Jodhpur Jn.(Railway Station).</b> The buses will be
         arranged from the MBM Engineering College to IIT Jodhpur Permanent Campus(Karwar) via Railway Station on 22nd
-        July 2018. For the availability of buses on other days i.e. 23rd and 24th July, you may contact the following -
+        July 2018. For the availability of buses on other days i.e. 23rd and 24th July or any other doubts on any day
+        itself, you may contact the following -
         <br>
         <ul>
             <li>Gautam Batulla - <a href="tel:+919588810985">+91-9588810985</a></li>
