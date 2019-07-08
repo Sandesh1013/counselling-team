@@ -47,698 +47,498 @@ include 'navbar.html';
     <div class="row text-center" id = "head">
 
         <div class="col-lg-6 col-md-6 mb-r">
-
-            <div class="avatar">
-                <img src="images/sqloader.gif" data-src="images/avatar/aarush.jpg" class="lazyload rounded-circle">
-            </div>
-            <h4>Aarush Gupta</h4>
-            <h5><i class="icons-sm-i fa fa-whatsapp green-text"></i><a
-                    href="https://api.whatsapp.com/send?phone=919971597736">+91-9971597736</a></h5>
-            <h5><strong>Hometown: </strong>Ghaziabad, UP<br><strong>Branch: </strong>ME</h5>
-            <p>I believe in writing what I perceive in this world with Untarnished Shades. My goal in life is to make my dreams turn into my memories.</p>
-            <!--<a class="icons-sm email-ic" href="mailto:rai.1@iitj.ac.in"><i class="fa fa-envelope-o"></i> </a>-->
-            <a class="icons-sm email-ic" href="mailto:gupta.6@iitj.ac.in"><i class="fa fa-envelope-o"></i> </a>
-            <a class="icons-sm fb-ic" target="_blank" href="https://www.facebook.com/aarush.gupta.98"><i
-                    class="fa fa-facebook"> </i></a>
-            <a class="icons-sm li-ic" target="_blank" href="https://in.linkedin.com/in/aarush-gupta-9571b7123"><i
-                    class="fa fa-linkedin"></i></a>
-
-        </div>
-
-        <div class="col-lg-6 col-md-6 mb-r">
-
-            <div class="avatar">
-                <img src="images/sqloader.gif" data-src="images/avatar/shubham.jpg" class="lazyload rounded-circle">
-            </div>
-            <h4>Shubham kumar</h4>
-            <h5><i class="icons-sm-i fa fa-whatsapp green-text"></i><a
-                    href="https://api.whatsapp.com/send?phone=919479060047">+91-9479060047</a></h5>
-            <h5><strong>Hometown: </strong>Bhilai, CG<br><strong>Branch: </strong>CSE</h5>
-            <p>CSE student | Footballer | Designer</p>
-            <a class="icons-sm email-ic" href="mailto:kumar.13@iitj.ac.in"><i class="fa fa-envelope-o"></i> </a>
-            <a class="icons-sm fb-ic" target="_blank" href="https://www.facebook.com/shubham.kumar.58511"><i
-                    class="fa fa-facebook"> </i></a>
-            <a class="icons-sm ins-ic" target="_blank" href="https://www.instagram.com/the_melon_boy/"><i
-                    class="fa fa-instagram"> </i></a>
-        </div>
-
-    </div>
-
-
-    <div class="divider-new"></div>
-    <div class="row text-center" id = "assistant-head">
-
-
-        <div class="col-lg-4 col-md-6 mb-r">
-
-            <div class="avatar">
-                <img src="images/avatar/harsh.png" data-src="images/avatar/harsh.png" class="lazyload rounded-circle">
-            </div>
-            <h4>Harsh Akshit</h4>
-            <h5><i class="icons-sm-i fa fa-whatsapp green-text"></i><a
-                    href="https://api.whatsapp.com/send?phone=917376504375">+91-7376504375</a></h5>
-            <h5><strong>Hometown: </strong>Lucknow, UP<br><strong>Branch: </strong>CSE</h5>
-            <p>-----------------------</p>
-            <a class="icons-sm email-ic" href="mailto:mohan.1@iitj.ac.in"><i class="fa fa-envelope-o"></i> </a>
-            <a class="icons-sm fb-ic" target="_blank" href="https://www.facebook.com/profile.php?id=100009326246985"><i
-                    class="fa fa-facebook"> </i></a>
-            <a class="icons-sm ins-ic" target="_blank" href="https://www.instagram.com/highhat_bash/"><i
-            class="fa fa-instagram"> </i></a>
-
-        </div>
-
-        <div class="col-lg-4 col-md-6 mb-r">
-
-            <div class="avatar">
-                <img src="images/avatar/karthik.JPG" data-src="images/avatar/karthik.JPG" class="lazyload rounded-circle">
-            </div>
-            <h4>Karthik Mohan</h4>
-            <h5><i class="icons-sm-i fa fa-whatsapp green-text"></i><a
-                    href="https://api.whatsapp.com/send?phone=919562186578">+91-9562186578</a></h5>
-            <h5><strong>Hometown: </strong>Kannur, Kerala<br><strong>Branch: </strong>ME</h5>
-            <p>Photography.Designing.Music.Sports.Travelling.Movies and Dreaming</p>
-            <a class="icons-sm email-ic" href="mailto:mohan.1@iitj.ac.in"><i class="fa fa-envelope-o"></i> </a>
-            <!--<a class="icons-sm fb-ic" target="_blank" href="https://www.facebook.com/shubham.kumar.58511"><i-->
-            <!--class="fa fa-facebook"> </i></a>-->
-            <a class="icons-sm ins-ic" target="_blank" href="https://www.instagram.com/kar_thi_k13/"><i
-            class="fa fa-instagram"> </i></a>
-
-        </div>
-
-        <div class="col-lg-4 col-md-6 mb-r">
-
-            <div class="avatar">
-                <img src="images/avatar/keerthi.jpg" data-src="images/avatar/keerthi.jpg" class="lazyload rounded-circle">
-            </div>
-            <h4>Keethi Aishwarya Vadde</h4>
-            <h5><i class="icons-sm-i fa fa-whatsapp green-text"></i><a
-                    href="https://api.whatsapp.com/send?phone=918500979954">+91-8500979954</a></h5>
-            <h5><strong>Hometown: </strong>Hyderabad, Telangana<br><strong>Branch: </strong>EE</h5>
-            <p>Fun loving girl</p>
-            <a class="icons-sm email-ic" href="mailto:aishwarya.1@iitj.ac.in@iitj.ac.in"><i class="fa fa-envelope-o"></i> </a>
-            <!--<a class="icons-sm fb-ic" target="_blank" href="https://www.facebook.com/Zukukuchi"><i-->
-                    <!--class="fa fa-facebook"> </i></a>-->
-            <!--<a class="icons-sm li-ic" target="_blank" href="https://in.linkedin.com/in/jeet-shah-995a54128"><i-->
-                    <!--class="fa fa-linkedin"></i></a>-->
-            <!--<a class="icons-sm ins-ic" target="_blank" href="https://www.instagram.com/iamjeetshah/"><i-->
-                    <!--class="fa fa-instagram"> </i></a>-->
-
-        </div>
-
-        <div class="col-lg-4 col-md-6 mb-r">
-
-            <div class="avatar">
-                <img src="images/avatar/nitish.jpg" data-src="images/avatar/nitish.jpg" class="lazyload rounded-circle">
-            </div>
-            <h4>Nitish Kumar</h4>
-            <h5><i class="icons-sm-i fa fa-whatsapp green-text"></i><a
-                    href="https://api.whatsapp.com/send?phone=919450009366">+91-9450009366</a></h5>
-            <h5><strong>Hometown: </strong>Gorakhpur, UP<br><strong>Branch: </strong>ME</h5>
-            <p>Football freak ||Travel enthusiastic || Loves to read novels</p>
-            <a class="icons-sm email-ic" href="mailto:kumar.20@iitj.ac.in"><i class="fa fa-envelope-o"></i> </a>
-            <!--<a class="icons-sm fb-ic" target="_blank" href="https://www.facebook.com/profile.php?id=100009326246985"><i-->
-            <!--class="fa fa-facebook"> </i></a>-->
-            <!--<a class="icons-sm ins-ic" target="_blank" href="https://www.instagram.com/highhat_bash/"><i-->
-            <!--class="fa fa-instagram"> </i></a>-->
-
-        </div>
-
-        <div class="col-lg-4 col-md-6 mb-r">
-
             <div class="avatar">
                 <img src="images/sqloader.gif" data-src="images/avatar/lakshya.jpg" class="lazyload rounded-circle">
             </div>
-
             <h4>Lakshya Garg</h4>
-            <h5><i class="icons-sm-i fa fa-whatsapp green-text"></i><a
-                    href="https://api.whatsapp.com/send?phone=918283875162">+91-8283875162</a></h5>
+            <h5><i class="icons-sm-i fa fa-whatsapp green-text"></i><a href="https://api.whatsapp.com/send?phone=918283875162">+91-8283875162</a></h5>
             <h5><strong>Hometown: </strong>Chandigarh<br><strong>Branch: </strong>CSE</h5>
             <p>
                 I am a daydreamer and a night thinker.<br>
                 Keep Calm and Code On.
             </p>
             <a class="icons-sm email-ic" href="mailto:garg.2@iitj.ac.in"><i class="fa fa-envelope-o"></i> </a>
-            <a class="icons-sm fb-ic" target="_blank" href="https://www.facebook.com/lakgarg"><i
-                    class="fa fa-facebook"> </i></a>
-            <a class="icons-sm ins-ic" target="_blank" href="https://www.instagram.com/lakgarg/"><i
-                    class="fa fa-instagram"> </i></a>
-            <a class="icons-sm li-ic" target="_blank" href="https://www.linkedin.com/in/garglakshya18/"><i
-                    class="fa fa-linkedin"></i></a>
-            <a class="icons-sm git-ic" target="_blank" href="https://github.com/garglakshya18"><i
-                    class="fa fa-github"></i></a>
+            <a class="icons-sm fb-ic" target="_blank" href="https://www.facebook.com/lakgarg"><i class="fa fa-facebook"> </i></a>
+            <a class="icons-sm ins-ic" target="_blank" href="https://www.instagram.com/lakgarg/"><i class="fa fa-instagram"> </i></a>
+            <a class="icons-sm li-ic" target="_blank" href="https://www.linkedin.com/in/garglakshya18/"><i class="fa fa-linkedin"></i></a>
+            <a class="icons-sm git-ic" target="_blank" href="https://github.com/garglakshya18"><i class="fa fa-github"></i></a>
 
         </div>
 
-        <div class="col-lg-4 col-md-6 mb-r">
+        <div class="col-lg-6 col-md-6 mb-r">
 
             <div class="avatar">
                 <img src="images/sqloader.gif" data-src="images/avatar/manvendra.jpg" class="lazyload rounded-circle">
             </div>
             <h4>Manvendra Singh Kushwah</h4>
-            <h5><i class="icons-sm-i fa fa-whatsapp green-text"></i><a
-                    href="https://api.whatsapp.com/send?phone=919479516190">+91-9479516190</a></h5>
+            <h5><i class="icons-sm-i fa fa-whatsapp green-text"></i><a href="https://api.whatsapp.com/send?phone=919479516190">+91-9479516190</a></h5>
             <h5><strong>Hometown: </strong>Morena, MP<br><strong>Branch: </strong>CSE</h5>
             <p>A silent person who loves to code his heart out.</p>
             <a class="icons-sm email-ic" href="mailto:kushwah.1@iitj.ac.in"><i class="fa fa-envelope-o"></i> </a>
-            <a class="icons-sm fb-ic" target="_blank" href="https://www.facebook.com/profile.php?id=100012295539106"><i
-                    class="fa fa-facebook"> </i></a>
-            <a class="icons-sm tw-ic" target="_blank" href="https://twitter.com/Manvendrakus121"><i
-                    class="fa fa-twitter"></i></a>
+            <a class="icons-sm fb-ic" target="_blank" href="https://www.facebook.com/profile.php?id=100012295539106"><i class="fa fa-facebook"> </i></a>
+            <a class="icons-sm tw-ic" target="_blank" href="https://twitter.com/Manvendrakus121"><i class="fa fa-twitter"></i></a>
 
         </div>
+    </div>
+
+
+    <div class="divider-new"></div>
+    <div class="row text-center" id = "assistant-head">
 
         <div class="col-lg-4 col-md-6 mb-r">
-
-            <div class="avatar">
-                <img src="images/sqloader.gif" data-src="images/avatar/poojan.jpg" class="lazyload rounded-circle">
-            </div>
-            <h4>Poojan Gajjar</h4>
-            <h5><i class="icons-sm-i fa fa-whatsapp green-text"></i><a
-                    href="https://api.whatsapp.com/send?phone=919610846770">+91-9610846770</a></h5>
-            <h5><strong>Hometown: </strong>Ahmedabad, Gujarat<br><strong>Branch: </strong>ME</h5>
-            <p>Interesting & enjoyable company.</p>
-            <a class="icons-sm email-ic" href="mailto:gajjar.1@iitj.ac.in"><i class="fa fa-envelope-o"></i> </a>
-            <a class="icons-sm fb-ic" target="_blank" href="https://www.facebook.com/poojan.m.gajjar"><i
+            <div class="avatar"><img src="images/sqloader.gif" data-src="images/avatar/ashish_chavan.jpg" class="lazyload rounded-circle" onerror="this.onerror=null;this.src='images/avatar/missing.png'"></div>
+            <h4>Ashish Chavan</h4>
+            <h5><i class="icons-sm-i fa fa-whatsapp green-text"></i><a href="https://api.whatsapp.com/send?phone=918766443560">+91-8766443560</a></h5>
+            <h5><strong>Hometown: </strong>Karad,Maharashtra <br><strong>Branch: </strong>ME</h5>
+            <p>Just keep calm and trust me</p>
+            <a class="icons-sm email-ic" href="mailto:chavan.2@iitj.ac.in"><i class="fa fa-envelope-o"></i> </a>
+            <a class="icons-sm fb-ic" target="_blank" href="https://m.facebook.com/ashish.chavan.988373?ref=bookmarks"><i
                     class="fa fa-facebook"> </i></a>
-            <a class="icons-sm li-ic" target="_blank" href="https://www.linkedin.com/in/poojan-gajjar-37438a13b/"><i
-                    class="fa fa-linkedin"></i></a>
-
-        </div>
-
-        <div class="col-lg-4 col-md-6 mb-r">
-
-            <div class="avatar">
-                <img src="images/sqloader.gif" data-src="images/avatar/sakshi.JPG" class="lazyload rounded-circle">
-            </div>
-
-            <h4>Sakshi Jeengar</h4>
-            <h5><i class="icons-sm-i fa fa-whatsapp green-text"></i><a
-                    href="https://api.whatsapp.com/send?phone=917821055797">+91-7821055797</a></h5>
-            <h5><strong>Hometown: </strong>Bhilwara, Raj.<br><strong>Branch: </strong>ME</h5>
-            <p>
-                'Workaholic' girl who wants to keep learning & revamping in every phase of life.<br>
-                #nature_lover #dance enthusiast
-            </p>
-            <a class="icons-sm email-ic" href="mailto:sakshi.1@iitj.ac.in"><i class="fa fa-envelope-o"></i> </a>
-            <a class="icons-sm fb-ic" target="_blank" href="https://www.facebook.com/sakshi.jeengar.9"><i
-                    class="fa fa-facebook"> </i></a>
-            <!--<a class="icons-sm git-ic" target="_blank" href="https://github.com/garglakshya18"><i-->
-                    <!--class="fa fa-github"></i></a>-->
-
-        </div>
-
-        <div class="col-lg-4 col-md-6 mb-r">
-
-            <div class="avatar">
-                <img src="images/sqloader.gif" data-src="images/avatar/shreshth.jpg" class="lazyload rounded-circle">
-            </div>
-            <h4>Shreshth Saini</h4>
-            <h5><i class="icons-sm-i fa fa-whatsapp green-text"></i><a
-                    href="https://api.whatsapp.com/send?phone=919549502722">+91-9549502722</a></h5>
-            <h5><strong>Hometown: </strong>Sirohi, Raj.<br><strong>Branch: </strong>EE</h5>
-            <p>Talk to me to know about me</p>
-            <a class="icons-sm email-ic" href="mailto:saini.2@iitj.ac.in"><i class="fa fa-envelope-o"></i> </a>
-            <a class="icons-sm fb-ic" target="_blank" href="https://www.facebook.com/shreshth.saini"><i
-                    class="fa fa-facebook"> </i></a>
-            <a class="icons-sm li-ic" target="_blank" href="https://www.linkedin.com/in/shreshthfeel/"><i
-                    class="fa fa-linkedin"></i></a>
-            <a class="icons-sm ins-ic" target="_blank" href="https://www.instagram.com/meliorate_ss/"><i
+            <a class="icons-sm ins-ic" target="_blank" href="https://www.instagram.com/ashish_chavan_ac27/"><i
                     class="fa fa-instagram"> </i></a>
-
         </div>
-
+        <div class="col-lg-4 col-md-6 mb-r">
+            <div class="avatar"><img src="images/sqloader.gif" data-src="images/avatar/arpit_kumar.jpg" class="lazyload rounded-circle" onerror="this.onerror=null;this.src='images/avatar/missing.png'"></div>
+            <h4>Arpit Kumar</h4>
+            <h5><i class="icons-sm-i fa fa-whatsapp green-text"></i><a href="https://api.whatsapp.com/send?phone=918788082907">+91-8788082907</a></h5>
+            <h5><strong>Hometown: </strong>Muzaffarnagar,Up<br><strong>Branch: </strong>ME</h5>
+            <p></p>
+            <a class="icons-sm email-ic" href="mailto:kumar.67@iitj.ac.in"><i class="fa fa-envelope-o"></i> </a>
+            <a class="icons-sm fb-ic" target="_blank" href="https://www.facebook.com/profile.php?id=100006749078542"><i
+                    class="fa fa-facebook"> </i></a>
+            <a class="icons-sm ins-ic" target="_blank" href="https://instagram.com/arpit_kumar0508?igshid=1wxlgi63jpcog"><i
+                    class="fa fa-instagram"> </i></a>
+        </div>
+        <div class="col-lg-4 col-md-6 mb-r">
+            <div class="avatar"><img src="images/sqloader.gif" data-src="images/avatar/pulkit_joshi.jpg" class="lazyload rounded-circle" onerror="this.onerror=null;this.src='images/avatar/missing.png'"></div>
+            <h4>Pulkit Joshi</h4>
+            <h5><i class="icons-sm-i fa fa-whatsapp green-text"></i><a href="https://api.whatsapp.com/send?phone=919694083339">+91-9694083339</a></h5>
+            <h5><strong>Hometown: </strong>Haldwani,Uttrakhand<br><strong>Branch: </strong>EE</h5>
+            <p></p>
+            <a class="icons-sm email-ic" href="mailto:joshi.6@iitj.ac.in"><i class="fa fa-envelope-o"></i> </a>
+            <a class="icons-sm fb-ic" target="_blank" href="https://www.facebook.com/woods.saw"><i class="fa fa-facebook">
+                </i></a>
+            <a class="icons-sm ins-ic" target="_blank" href="https://www.instagram.com/_pulkit_joshi_/"><i
+                    class="fa fa-instagram"> </i></a>
+        </div>
+        <div class="col-lg-4 col-md-6 mb-r">
+            <div class="avatar"><img src="images/sqloader.gif" data-src="images/avatar/ansh_shrivastava.jpg" class="lazyload rounded-circle" onerror="this.onerror=null;this.src='images/avatar/missing.png'"></div>
+            <h4>Ansh Shrivastava</h4>
+            <h5><i class="icons-sm-i fa fa-whatsapp green-text"></i><a href="https://api.whatsapp.com/send?phone=919754122430">+91-9754122430</a></h5>
+            <h5><strong>Hometown: </strong>Gwalior, M.P.<br><strong>Branch: </strong>CSE</h5>
+            <p>Another Homo sapien who loves the concept of self-love and have an eye for art. </p>
+            <a class="icons-sm email-ic" href="mailto:shrivastava.4@iitj.ac.in"><i class="fa fa-envelope-o"></i> </a>
+        </div>
+        <div class="col-lg-4 col-md-6 mb-r">
+            <div class="avatar"><img src="images/sqloader.gif" data-src="images/avatar/shivam_goel.jpg" class="lazyload rounded-circle" onerror="this.onerror=null;this.src='images/avatar/missing.png'"></div>
+            <h4>Shivam Goel</h4>
+            <h5><i class="icons-sm-i fa fa-whatsapp green-text"></i><a href="https://api.whatsapp.com/send?phone=918504912561">+91-8504912561</a></h5>
+            <h5><strong>Hometown: </strong>Khurja, Uttar Pradesh<br><strong>Branch: </strong>ME</h5>
+            <p></p>
+            <a class="icons-sm email-ic" href="mailto:goel.5@iitj.ac.in"><i class="fa fa-envelope-o"></i> </a>
+        </div>
+        <div class="col-lg-4 col-md-6 mb-r">
+            <div class="avatar"><img src="images/sqloader.gif" data-src="images/avatar/anupama_patel.jpg" class="lazyload rounded-circle" onerror="this.onerror=null;this.src='images/avatar/missing.png'"></div>
+            <h4>Anupama Patel</h4>
+            <h5><i class="icons-sm-i fa fa-whatsapp green-text"></i><a href="https://api.whatsapp.com/send?phone=918769263368">+91-8769263368</a></h5>
+            <h5><strong>Hometown: </strong>Dewas, Mp<br><strong>Branch: </strong>EE</h5>
+            <p></p>
+            <a class="icons-sm email-ic" href="mailto:patel.2@iitj.ac.in"><i class="fa fa-envelope-o"></i> </a>
+        </div>
+        <div class="col-lg-4 col-md-6 mb-r">
+            <div class="avatar"><img src="images/sqloader.gif" data-src="images/avatar/anshu_priya.jpg" class="lazyload rounded-circle" onerror="this.onerror=null;this.src='images/avatar/missing.png'"></div>
+            <h4>Anshu Priya</h4>
+            <h5><i class="icons-sm-i fa fa-whatsapp green-text"></i><a href="https://api.whatsapp.com/send?phone=917635003713">+91-7635003713</a></h5>
+            <h5><strong>Hometown: </strong>Patna, Bihar<br><strong>Branch: </strong>EE</h5>
+            <p></p>
+            <a class="icons-sm email-ic" href="mailto:priya.1@iitj.ac.in"><i class="fa fa-envelope-o"></i> </a>
+        </div>
+        <div class="col-lg-4 col-md-6 mb-r">
+            <div class="avatar"><img src="images/sqloader.gif" data-src="images/avatar/rishav_jain.jpg" class="lazyload rounded-circle" onerror="this.onerror=null;this.src='images/avatar/missing.png'"></div>
+            <h4>Rishav Jain</h4>
+            <h5><i class="icons-sm-i fa fa-whatsapp green-text"></i><a href="https://api.whatsapp.com/send?phone=918521359301">+91-8521359301</a></h5>
+            <h5><strong>Hometown: </strong>Ranchi, Jharkhand<br><strong>Branch: </strong>CSE</h5>
+            <p></p>
+            <a class="icons-sm email-ic" href="mailto:jain.11@iitj.ac.in"><i class="fa fa-envelope-o"></i> </a>
+            <a class="icons-sm fb-ic" target="_blank" href="https://m.facebook.com/rishav.jain.5682"><i class="fa fa-facebook">
+                </i></a>
+        </div>
     </div>
 
 
     <div class="divider-new"></div>
     <!--First row-->
     <div class="row text-center" id="student-guide">
-
+        
         <div class="col-lg-4 col-md-6 mb-r">
-
-            <div class="avatar">
-                <img src="images/sqloader.gif" data-src="images/avatar/hiren.jpg" class="lazyload rounded-circle">
-            </div>
-            <h4>Hiren Chalodiya</h4>
-            <h5><i class="icons-sm-i fa fa-whatsapp green-text"></i><a
-                    href="https://api.whatsapp.com/send?phone=917041854100">+91-7041854100</a></h5>
+            <div class="avatar"><img src="images/sqloader.gif" data-src="images/avatar/venkatesh_kotwade.jpg" class="lazyload rounded-circle" onerror="this.onerror=null;this.src='images/avatar/missing.png'"></div>
+            <h4>Venkatesh Kotwade</h4>
+            <h5><i class="icons-sm-i fa fa-whatsapp green-text"></i><a href="https://api.whatsapp.com/send?phone=918275458531">+91-8275458531</a></h5>
+            <h5><strong>Hometown: </strong>Udgir , Maharashtra<br><strong>Branch: </strong>CSE</h5>
+            <p>Introvert. Into Algorithms. Shutterbug. Sia. Witty. Confused.</p>
+            <a class="icons-sm email-ic" href="mailto:venkateshkotwade@gmail.com"><i class="fa fa-envelope-o"></i> </a>
+            <a class="icons-sm fb-ic" target="_blank" href="https://m.facebook.com/venkatesh.kotwade.5"><i class="fa fa-facebook"> </i></a>
+            <a class="icons-sm ins-ic" target="_blank" href="https://www.instagram.com/____error_404___/"><i class="fa fa-instagram"> </i></a>
+        </div>
+        <div class="col-lg-4 col-md-6 mb-r">
+            <div class="avatar"><img src="images/sqloader.gif" data-src="images/avatar/mihir_sakaria.jpg" class="lazyload rounded-circle" onerror="this.onerror=null;this.src='images/avatar/missing.png'"></div>
+            <h4>Mihir Sakaria</h4>
+            <h5><i class="icons-sm-i fa fa-whatsapp green-text"></i><a href="https://api.whatsapp.com/send?phone=917023450264">+91-7023450264</a></h5>
             <h5><strong>Hometown: </strong>Surat, Gujarat<br><strong>Branch: </strong>CSE</h5>
-            <p>Programming | Sleeping <br>
-                Enjoying life with cool friends..</p>
-            <a class="icons-sm email-ic" href="mailto:chalodiya.1@iitj.ac.in"><i class="fa fa-envelope-o"></i> </a>
-            <a class="icons-sm fb-ic" target="_blank" href="https://www.facebook.com/hiren.chalodiya.5"><i
-                    class="fa fa-facebook"> </i></a>
-            <a class="icons-sm ins-ic" target="_blank" href="https://www.instagram.com/hirenchalodiya/"><i
-                    class="fa fa-instagram"> </i></a>
-            <a class="icons-sm li-ic" target="_blank" href="https://www.linkedin.com/in/hiren-chalodiya-277b95157/"><i
-                    class="fa fa-linkedin"></i></a>
-            <a class="icons-sm git-ic" target="_blank" href="https://github.com/hirenchalodiya1/"><i
-                    class="fa fa-github"></i></a>
-        </div>
-
-
-        <div class="col-lg-4 col-md-6 mb-r">
-
-            <div class="avatar">
-                <img src="images/sqloader.gif" data-src="images/avatar/mayank_raj.jpg" class="lazyload rounded-circle">
-            </div>
-            <h4>Mayank Raj</h4>
-            <h5><i class="icons-sm-i fa fa-whatsapp green-text"></i><a
-                    href="https://api.whatsapp.com/send?phone=919521197358">+91-9521197358</a></h5>
-            <h5><strong>Hometown: </strong>Agra, UP<br><strong>Branch: </strong>EE</h5>
-            <p>An engineer of thoughts with ecstatic mind.Geek yet joyful.. Believe in 3Ds:determination dedication decision. </p>
-            <a class="icons-sm email-ic" href="mailto:raj.6@iitj.ac.in"><i class="fa fa-envelope-o"></i> </a>
-            <a class="icons-sm fb-ic" target="_blank" href="https://m.facebook.com/mayank.raj.7564"><i
-            class="fa fa-facebook"> </i></a>
-            <a class="icons-sm ins-ic" target="_blank" href="https://www.instagram.com/sir_mayank23/"><i
-                    class="fa fa-instagram"> </i></a>
-
-        </div>
-
-
-        <div class="col-lg-4 col-md-6 mb-r">
-
-            <div class="avatar">
-                <img src="images/sqloader.gif" data-src="images/avatar/mansi_singh.jpg" class="lazyload rounded-circle">
-            </div>
-            <h4>Mansi Singh</h4>
-            <h5><i class="icons-sm-i fa fa-whatsapp green-text"></i><a
-                    href="https://api.whatsapp.com/send?phone=919664016370">+91-9664016370</a></h5>
-            <h5><strong>Hometown: </strong>Kota, Raj.<br><strong>Branch: </strong>EE</h5>
-            <p>Love exploring new people, sensitive person and speak a lot!  </p>
-            <a class="icons-sm email-ic" href="mailto:singh.26@iitj.ac.in"><i class="fa fa-envelope-o"></i> </a>
-            <a class="icons-sm fb-ic" target="_blank" href="https://www.facebook.com/profile.php?id=100021680423453"><i
-            class="fa fa-facebook"> </i></a>
-            <a class="icons-sm ins-ic" target="_blank" href="https://www.instagram.com/maahii_52/"><i
-                    class="fa fa-instagram"> </i></a>
-
-        </div>
-
-        <div class="col-lg-4 col-md-6 mb-r">
-
-            <div class="avatar">
-                <img src="images/sqloader.gif" data-src="images/avatar/aashish.jpg" class="lazyload rounded-circle">
-            </div>
-            <h4>Ashish Chavan</h4>
-            <h5><i class="icons-sm-i fa fa-whatsapp green-text"></i><a
-                    href="https://api.whatsapp.com/send?phone=918766443560">+91-8766443560</a></h5>
-            <h5><strong>Hometown: </strong>Karad, Maharashtra <br><strong>Branch: </strong>ME</h5>
-            <p>"Passionate for Cricket.
-                Loves to explore new things and travel to different places.
-                Sportsman and music lover."</p>
-            <a class="icons-sm email-ic" href="mailto:chavan.2@iitj.ac.in"><i class="fa fa-envelope-o"></i> </a>
-            <a class="icons-sm fb-ic" target="_blank" href="https://www.facebook.com/profile.php?id=100022408493221"><i
-            class="fa fa-facebook"> </i></a>
-
+            <p>Tall guy from gujarat, ever ready for adventure,fun and food.</p>
+            <a class="icons-sm email-ic" href="mailto:sakaria.1@iitj.ac.in"><i class="fa fa-envelope-o"></i> </a>
+            <a class="icons-sm fb-ic" target="_blank" href="https://m.facebook.com/mihir.sakaria.9?ref=bookmarks"><i class="fa fa-facebook"> </i></a>
         </div>
         <div class="col-lg-4 col-md-6 mb-r">
-
-            <div class="avatar">
-                <img src="images/sqloader.gif" data-src="images/avatar/arpit.jpg" class="lazyload rounded-circle">
-            </div>
-            <h4>Arpit Kumar</h4>
-            <h5><i class="icons-sm-i fa fa-whatsapp green-text"></i><a
-                    href="https://api.whatsapp.com/send?phone=918788082907">+91-8788082907</a></h5>
-            <h5><strong>Hometown: </strong>Pune, Maharashtra<br><strong>Branch: </strong>ME</h5>
-            <p>football Is love, calm and cool, avid reader, travel enthusiast(hill stations near pune are best for it)  </p>
-            <a class="icons-sm email-ic" href="mailto:kumar.67@iitj.ac.in"><i class="fa fa-envelope-o"></i> </a>
-            <a class="icons-sm fb-ic" target="_blank" href="https://www.facebook.com/profile.php?id=100006749078542"><i
-            class="fa fa-facebook"> </i></a>
-
+            <div class="avatar"><img src="images/sqloader.gif" data-src="images/avatar/nidhi_sharma.jpg" class="lazyload rounded-circle" onerror="this.onerror=null;this.src='images/avatar/missing.png'"></div>
+            <h4>Nidhi Sharma</h4>
+            <h5><i class="icons-sm-i fa fa-whatsapp green-text"></i><a href="https://api.whatsapp.com/send?phone=916395177472">+91-6395177472</a></h5>
+            <h5><strong>Hometown: </strong>Jewar, Up<br><strong>Branch: </strong>BB</h5>
+            <p></p>
+            <a class="icons-sm email-ic" href="mailto:sharma.28@iitj.ac.in"><i class="fa fa-envelope-o"></i> </a>
+            <a class="icons-sm fb-ic" target="_blank" href="https://www.facebook.com/profile.php?id=100028790739758"><i class="fa fa-facebook"> </i></a>
+            <a class="icons-sm ins-ic" target="_blank" href="https://instagram.com/nidhisharma8261"><i class="fa fa-instagram"> </i></a>
         </div>
-
         <div class="col-lg-4 col-md-6 mb-r">
-
-            <div class="avatar">
-                <img src="images/sqloader.gif" data-src="images/avatar/gaurav.jpg" class="lazyload rounded-circle">
-            </div>
-            <h4>Gaurav Arya</h4>
-            <h5><i class="icons-sm-i fa fa-whatsapp green-text"></i><a
-                    href="https://api.whatsapp.com/send?phone=917869157486">+91-7869157486</a></h5>
-            <h5><strong>Hometown: </strong>Indore, MP<br><strong>Branch: </strong>CSE</h5>
-            <p>"#sports_freak  #travelholic
-                An explorer, ready to deliberate on almost anything, ready to learn and apply , striving for a peaceful life."</p>
-            <a class="icons-sm email-ic" href="mailto:arya.2@iitj.ac.in"><i class="fa fa-envelope-o"></i> </a>
-            <a class="icons-sm fb-ic" target="_blank" href="https://www.facebook.com/gourav.arya.501"><i
-            class="fa fa-facebook"> </i></a>
-            <a class="icons-sm ins-ic" target="_blank" href="https://www.instagram.com/_gaurav_1802/"><i
-                    class="fa fa-instagram"> </i></a>
-
+            <div class="avatar"><img src="images/sqloader.gif" data-src="images/avatar/kshitij_thakur.jpg" class="lazyload rounded-circle" onerror="this.onerror=null;this.src='images/avatar/missing.png'"></div>
+            <h4>Kshitij Thakur</h4>
+            <h5><i class="icons-sm-i fa fa-whatsapp green-text"></i><a href="https://api.whatsapp.com/send?phone=918450929318">+91-8450929318</a></h5>
+            <h5><strong>Hometown: </strong>Navi Mumbai, Maharashtra<br><strong>Branch: </strong>BB</h5>
+            <p>Music and Football enthusiast</p>
+            <a class="icons-sm email-ic" href="mailto:thakur.3@iitj.ac.in"><i class="fa fa-envelope-o"></i> </a>
+            <a class="icons-sm ins-ic" target="_blank" href="www.instagram.com/kshitij_thakur_soc"><i class="fa fa-instagram"> </i></a>
         </div>
-
         <div class="col-lg-4 col-md-6 mb-r">
-
-            <div class="avatar">
-                <img src="images/sqloader.gif" data-src="images/avatar/saurav.jpg" class="lazyload rounded-circle">
-            </div>
-            <h4>Saurav Yadav</h4>
-            <h5><i class="icons-sm-i fa fa-whatsapp green-text"></i><a
-                    href="https://api.whatsapp.com/send?phone=919079990298">+91-9079990298</a></h5>
-            <h5><strong>Hometown: </strong>Jhunjhunu, Raj.<br><strong>Branch: </strong>EE</h5>
-            <p>"Sophophile.
-                Drama lover.
-                Football maniac."</p>
-            <a class="icons-sm email-ic" href="mailto:yadav.8@iitj.ac.in"><i class="fa fa-envelope-o"></i> </a>
-            <a class="icons-sm fb-ic" target="_blank" href="https://www.facebook.com/profile.php?id=100019260526203"><i
-            class="fa fa-facebook"> </i></a>
-
+            <div class="avatar"><img src="images/sqloader.gif" data-src="images/avatar/yash_chaubey.jpg" class="lazyload rounded-circle" onerror="this.onerror=null;this.src='images/avatar/missing.png'"></div>
+            <h4>Yash Chaubey</h4>
+            <h5><i class="icons-sm-i fa fa-whatsapp green-text"></i><a href="https://api.whatsapp.com/send?phone=919773521055">+91-9773521055</a></h5>
+            <h5><strong>Hometown: </strong>Mumbai, Maharashtra<br><strong>Branch: </strong>EE</h5>
+            <p>Enthusiastic, Cheerful, Compassionate</p>
+            <a class="icons-sm email-ic" href="mailto:chaubey.3@iitj.ac.in"><i class="fa fa-envelope-o"></i> </a>
+            <a class="icons-sm fb-ic" target="_blank" href="https://m.facebook.com/profile.php?ref=bookmarks"><i class="fa fa-facebook"> </i></a>
+            <a class="icons-sm ins-ic" target="_blank" href="https://instagram.com/yash._.chaubey?igshid=1stmmwpcfj292"><i class="fa fa-instagram"> </i></a>
         </div>
-
         <div class="col-lg-4 col-md-6 mb-r">
-
-            <div class="avatar">
-                <img src="images/sqloader.gif" data-src="images/avatar/harsh_kushal.jpg" class="lazyload rounded-circle">
-            </div>
-            <h4>Harsh Kooshal Gandhi</h4>
-            <h5><i class="icons-sm-i fa fa-whatsapp green-text"></i><a
-                    href="https://api.whatsapp.com/send?phone=917569222235">+91-7569222235</a></h5>
-            <h5><strong>Hometown: </strong>Hyderabad, Telangana<br><strong>Branch: </strong>EE</h5>
-            <p>Everyday Is an opening to do something new .Explorer by nature.Travel geek, photography enthusiast ,world politics and economics are my interests .</p>
-            <a class="icons-sm email-ic" href="mailto:gandhi.1@iitj.ac.in"><i class="fa fa-envelope-o"></i> </a>
-            <a class="icons-sm fb-ic" target="_blank" href="https://www.facebook.com/harsh.kooshal"><i
-            class="fa fa-facebook"> </i></a>
-            <a class="icons-sm ins-ic" target="_blank" href="https://www.instagram.com/harsh.kooshal"><i
-                    class="fa fa-instagram"> </i></a>
-
+            <div class="avatar"><img src="images/sqloader.gif" data-src="images/avatar/bhushan_mali.jpg" class="lazyload rounded-circle" onerror="this.onerror=null;this.src='images/avatar/missing.png'"></div>
+            <h4>Bhushan Mali</h4>
+            <h5><i class="icons-sm-i fa fa-whatsapp green-text"></i><a href="https://api.whatsapp.com/send?phone=919049438770">+91-9049438770</a></h5>
+            <h5><strong>Hometown: </strong>Navapur, Maharashtra<br><strong>Branch: </strong>EE</h5>
+            <p>Chesslover who always wants new experiences from life.</p>
+            <a class="icons-sm email-ic" href="mailto:mali.1@iitj.ac.in"><i class="fa fa-envelope-o"></i> </a>
+            <a class="icons-sm fb-ic" target="_blank" href="https://m.facebook.com/bhushan.mali.927543?ref=bookmarks"><i class="fa fa-facebook"> </i></a>
+            <a class="icons-sm ins-ic" target="_blank" href="https://www.instagram.com/bhushanmali1706/"><i class="fa fa-instagram"> </i></a>
         </div>
-
         <div class="col-lg-4 col-md-6 mb-r">
-
-            <div class="avatar">
-                <img src="images/sqloader.gif" data-src="images/avatar/anshuman.jpg" class="lazyload rounded-circle">
-            </div>
-            <h4>Anshuman Deka</h4>
-            <h5><i class="icons-sm-i fa fa-whatsapp green-text"></i><a
-                    href="https://api.whatsapp.com/send?phone=917381942755">+91-7381942755</a></h5>
-            <h5><strong>Hometown: </strong>Guwahati, Assam<br><strong>Branch: </strong>CSE</h5>
-            <p>An engineer in the making who enjoys the fun and humour in life. A musician by passion and a basketball freak by choice. Enjoy learning new things, exploring new places and meeting new people. </p>
-            <a class="icons-sm email-ic" href="mailto:deka.1@iitj.ac.in"><i class="fa fa-envelope-o"></i> </a>
-            <a class="icons-sm fb-ic" target="_blank" href="https://www.facebook.com/anshuman.deka.9"><i
-            class="fa fa-facebook"> </i></a>
-            <a class="icons-sm ins-ic" target="_blank" href="https://www.instagram.com/notanshumandeka/"><i
-                    class="fa fa-instagram"> </i></a>
-
+            <div class="avatar"><img src="images/sqloader.gif" data-src="images/avatar/yashvi_ramanuj.jpg" class="lazyload rounded-circle" onerror="this.onerror=null;this.src='images/avatar/missing.png'"></div>
+            <h4>Yashvi Ramanuj</h4>
+            <h5><i class="icons-sm-i fa fa-whatsapp green-text"></i><a href="https://api.whatsapp.com/send?phone=916354890328">+91-6354890328</a></h5>
+            <h5><strong>Hometown: </strong>Rajkot, Gujarat <br><strong>Branch: </strong>CSE</h5>
+            <p>Affable. Prudent. Forthright. </p>
+            <a class="icons-sm email-ic" href="mailto:yashvi.1@iitj.ac.in"><i class="fa fa-envelope-o"></i> </a>
+            <a class="icons-sm fb-ic" target="_blank" href="https://www.facebook.com/yashvi.ramanujp"><i class="fa fa-facebook"> </i></a>
         </div>
-
         <div class="col-lg-4 col-md-6 mb-r">
-
-            <div class="avatar">
-                <img src="images/sqloader.gif" data-src="images/avatar/arjun.jpg" class="lazyload rounded-circle">
-            </div>
-            <h4>Arjun Joshi</h4>
-            <h5><i class="icons-sm-i fa fa-whatsapp green-text"></i><a
-                    href="https://api.whatsapp.com/send?phone=919871698289">+91-9871698289</a></h5>
-            <h5><strong>Hometown: </strong>Gurgaon, Haryana<br><strong>Branch: </strong>CSE</h5>
-            <p>Jack of all master of none</p>
-            <a class="icons-sm email-ic" href="mailto:joshi.4@iitj.ac.in"><i class="fa fa-envelope-o"></i> </a>
-            <!--<a class="icons-sm fb-ic" target="_blank" href="https://www.facebook.com/profile.php?id=100006802248418"><i-->
-            <!--class="fa fa-facebook"> </i></a>-->
-
+            <div class="avatar"><img src="images/sqloader.gif" data-src="images/avatar/eashan_jindal.jpg" class="lazyload rounded-circle" onerror="this.onerror=null;this.src='images/avatar/missing.png'"></div>
+            <h4>Eashan Jindal</h4>
+            <h5><i class="icons-sm-i fa fa-whatsapp green-text"></i><a href="https://api.whatsapp.com/send?phone=916377524778">+91-6377524778</a></h5>
+            <h5><strong>Hometown: </strong>Bathinda, Punjab<br><strong>Branch: </strong>CSE</h5>
+            <p></p>
+            <a class="icons-sm email-ic" href="mailto:jindal.3@iitj.ac.in"><i class="fa fa-envelope-o"></i> </a>
+            <a class="icons-sm fb-ic" target="_blank" href="https://www.facebook.com/eashan.jindal"><i class="fa fa-facebook"> </i></a>
+            <a class="icons-sm ins-ic" target="_blank" href="https://www.instagram.com/eashan_jindal/"><i class="fa fa-instagram"> </i></a>
         </div>
-
         <div class="col-lg-4 col-md-6 mb-r">
-
-            <div class="avatar">
-                <img src="images/sqloader.gif" data-src="images/avatar/ansh.jpg" class="lazyload rounded-circle">
-            </div>
-            <h4>Ansh Shrivastava</h4>
-            <h5><i class="icons-sm-i fa fa-whatsapp green-text"></i><a
-                    href="https://api.whatsapp.com/send?phone=919754122430">+91-9754122430</a></h5>
-            <h5><strong>Hometown: </strong>Gwalior, MP<br><strong>Branch: </strong>CSE</h5>
-            <p>Serene, Aesthetic, Audiophile.</p>
-            <a class="icons-sm email-ic" href="mailto:shrivastava.4@iitj.ac.in"><i class="fa fa-envelope-o"></i> </a>
-            <a class="icons-sm fb-ic" target="_blank" href="https://www.facebook.com/keepcalm1377"><i
-            class="fa fa-facebook"> </i></a>
-            <a class="icons-sm ins-ic" target="_blank" href="https://www.instagram.com/__ansh__13/"><i
-                    class="fa fa-instagram"> </i></a>
-
+            <div class="avatar"><img src="images/sqloader.gif" data-src="images/avatar/aman_gupta.jpg" class="lazyload rounded-circle" onerror="this.onerror=null;this.src='images/avatar/missing.png'"></div>
+            <h4>Aman Gupta</h4>
+            <h5><i class="icons-sm-i fa fa-whatsapp green-text"></i><a href="https://api.whatsapp.com/send?phone=917060226049">+91-7060226049</a></h5>
+            <h5><strong>Hometown: </strong>Mathura, Uttar Pradesh<br><strong>Branch: </strong>EE</h5>
+            <p></p>
+            <a class="icons-sm fb-ic" target="_blank" href="https://m.facebook.com/profile.php?id=100004402662188&ref=content_filter"><i class="fa fa-facebook"> </i></a>
         </div>
-
         <div class="col-lg-4 col-md-6 mb-r">
-
-            <div class="avatar">
-                <img src="images/sqloader.gif" data-src="images/avatar/manisha_kaler.jpg" class="lazyload rounded-circle">
-            </div>
-            <h4>Manisha Kaler</h4>
-            <h5><i class="icons-sm-i fa fa-whatsapp green-text"></i><a
-                    href="https://api.whatsapp.com/send?phone=919694082221">+91-9694082221</a></h5>
-            <h5><strong>Hometown: </strong>Bikaner, Raj.<br><strong>Branch: </strong>CSE</h5>
-            <p>CSE | foodie | Stupendous
-                An Extroverted Soul , Cheerful and Ecstatic..</p>
-            <a class="icons-sm email-ic" href="mailto:manisha.1@iitj.ac.in"><i class="fa fa-envelope-o"></i> </a>
-            <a class="icons-sm fb-ic" target="_blank" href="https://m.facebook.com/manisha.kaler.142"><i
-            class="fa fa-facebook"> </i></a>
-
+            <div class="avatar"><img src="images/sqloader.gif" data-src="images/avatar/arushi_midha.jpg" class="lazyload rounded-circle" onerror="this.onerror=null;this.src='images/avatar/missing.png'"></div>
+            <h4>Arushi Midha</h4>
+            <h5><i class="icons-sm-i fa fa-whatsapp green-text"></i><a href="https://api.whatsapp.com/send?phone=916377916934">+91-6377916934</a></h5>
+            <h5><strong>Hometown: </strong>Chennai, Tamil Nadu<br><strong>Branch: </strong>BB</h5>
+            <p>Guardian of my amour propre. Loves to pen down thoughts. Inquisitive and a calm rebel. A proud part of kpop fandoms. </p>
+            <a class="icons-sm email-ic" href="mailto:midha.1@iitj.ac.in"><i class="fa fa-envelope-o"></i> </a>
+            <a class="icons-sm ins-ic" target="_blank" href="https://www.instagram.com/aru___she/"><i class="fa fa-instagram"> </i></a>
         </div>
-
         <div class="col-lg-4 col-md-6 mb-r">
-
-            <div class="avatar">
-                <img src="images/sqloader.gif" data-src="images/avatar/alis.jpg" class="lazyload rounded-circle">
-            </div>
-            <h4>Alish Kanani</h4>
-            <h5><i class="icons-sm-i fa fa-whatsapp green-text"></i><a
-                    href="https://api.whatsapp.com/send?phone=919664515665">+91-9664515665</a></h5>
+            <div class="avatar"><img src="images/sqloader.gif" data-src="images/avatar/akash_jain.jpg" class="lazyload rounded-circle" onerror="this.onerror=null;this.src='images/avatar/missing.png'"></div>
+            <h4>Akash Jain</h4>
+            <h5><i class="icons-sm-i fa fa-whatsapp green-text"></i><a href="https://api.whatsapp.com/send?phone=918053017295">+91-8053017295</a></h5>
+            <h5><strong>Hometown: </strong>Rohtak, Haryana<br><strong>Branch: </strong>EE</h5>
+            <p>Enthusiastic,Music Lover,Gamer</p>
+            <a class="icons-sm email-ic" href="mailto:jain.20@iitj.ac.in"><i class="fa fa-envelope-o"></i> </a>
+            <a class="icons-sm ins-ic" target="_blank" href="https://www.instagram.com/akashjain887/"><i class="fa fa-instagram"> </i></a>
+        </div>
+        <div class="col-lg-4 col-md-6 mb-r">
+            <div class="avatar"><img src="images/sqloader.gif" data-src="images/avatar/nishant_sarraff.jpg" class="lazyload rounded-circle" onerror="this.onerror=null;this.src='images/avatar/missing.png'"></div>
+            <h4>Nishant Sarraff</h4>
+            <h5><i class="icons-sm-i fa fa-whatsapp green-text"></i><a href="https://api.whatsapp.com/send?phone=919813290287">+91-9813290287</a></h5>
+            <h5><strong>Hometown: </strong>Charkhi Dadri, Haryana<br><strong>Branch: </strong>EE</h5>
+            <p></p>
+            <a class="icons-sm email-ic" href="mailto:sarraff.1@iitj.ac.in"><i class="fa fa-envelope-o"></i> </a>
+            <a class="icons-sm fb-ic" target="_blank" href="https://www.facebook.com/nishant.sarraff"><i class="fa fa-facebook"> </i></a>
+            <a class="icons-sm ins-ic" target="_blank" href="https://instagram.com/nishantsarraff"><i class="fa fa-instagram"> </i></a>
+        </div>
+        <div class="col-lg-4 col-md-6 mb-r">
+            <div class="avatar"><img src="images/sqloader.gif" data-src="images/avatar/kartik_vyas.jpg" class="lazyload rounded-circle" onerror="this.onerror=null;this.src='images/avatar/missing.png'"></div>
+            <h4>Kartik Vyas</h4>
+            <h5><i class="icons-sm-i fa fa-whatsapp green-text"></i><a href="https://api.whatsapp.com/send?phone=918003486067">+91-8003486067</a></h5>
+            <h5><strong>Hometown: </strong>Jaipur, Rajasthan<br><strong>Branch: </strong>CSE</h5>
+            <p>I do little things, I experience joy and then I tell stories</p>
+            <a class="icons-sm email-ic" href="mailto:vyas.2@iitj.ac.in"><i class="fa fa-envelope-o"></i> </a>
+            <a class="icons-sm fb-ic" target="_blank" href="https://www.facebook.com/kartik.vyas.963"><i class="fa fa-facebook"> </i></a>
+            <a class="icons-sm ins-ic" target="_blank" href="https://instagram.com/vyas_kartik20?igshid=y1s0vxvbfjlq"><i class="fa fa-instagram"> </i></a>
+        </div>
+        <div class="col-lg-4 col-md-6 mb-r">
+            <div class="avatar"><img src="images/sqloader.gif" data-src="images/avatar/pushpank_katare.jpg" class="lazyload rounded-circle" onerror="this.onerror=null;this.src='images/avatar/missing.png'"></div>
+            <h4>Pushpank Katare </h4>
+            <h5><i class="icons-sm-i fa fa-whatsapp green-text"></i><a href="https://api.whatsapp.com/send?phone=919082132266">+91-9082132266</a></h5>
+            <h5><strong>Hometown: </strong>Navi Mumbai, Maharashtra<br><strong>Branch: </strong>BB</h5>
+            <p>A mischievous and innocent child</p>
+            <a class="icons-sm email-ic" href="mailto:katare.1@iitj.ac.in"><i class="fa fa-envelope-o"></i> </a>
+        </div>
+        <div class="col-lg-4 col-md-6 mb-r">
+            <div class="avatar"><img src="images/sqloader.gif" data-src="images/avatar/rohan_dassani.jpg" class="lazyload rounded-circle" onerror="this.onerror=null;this.src='images/avatar/missing.png'"></div>
+            <h4>Rohan Dassani</h4>
+            <h5><i class="icons-sm-i fa fa-whatsapp green-text"></i><a href="https://api.whatsapp.com/send?phone=917285049799">+91-7285049799</a></h5>
             <h5><strong>Hometown: </strong>Surat, Gujarat<br><strong>Branch: </strong>EE</h5>
-            <p>Tech maniac</p>
-            <a class="icons-sm email-ic" href="mailto:kanani.1@iitj.ac.in"><i class="fa fa-envelope-o"></i> </a>
-            <a class="icons-sm fb-ic" target="_blank" href="https://www.facebook.com/alishkanani"><i
-                    class="fa fa-facebook"> </i></a>
-            <a class="icons-sm ins-ic" target="_blank" href="https://www.instagram.com/aliskanani/"><i
-                    class="fa fa-instagram"> </i></a>
-
-        </div>
-
-        <div class="col-lg-4 col-md-6 mb-r">
-
-            <div class="avatar">
-                <img src="images/sqloader.gif" data-src="images/avatar/pulkit.jpg" class="lazyload rounded-circle">
-            </div>
-            <h4>Pulkit Joshi</h4>
-            <h5><i class="icons-sm-i fa fa-whatsapp green-text"></i><a
-                    href="https://api.whatsapp.com/send?phone=919897737859">+91-9897737859</a></h5>
-            <h5><strong>Hometown: </strong>Haldwani, Uttrakhand<br><strong>Branch: </strong>ME</h5>
-            <p>"I have no special talent. I am only passionately curious. <br>
-                ME Student | Observer | Gamer "</p>
-            <a class="icons-sm email-ic" href="mailto:joshi.6@iitj.ac.in"><i class="fa fa-envelope-o"></i> </a>
-            <a class="icons-sm fb-ic" target="_blank" href="https://www.facebook.com/woods.saw"><i
-            class="fa fa-facebook"> </i></a>
-
-        </div>
-
-        <div class="col-lg-4 col-md-6 mb-r">
-
-            <div class="avatar">
-                <img src="images/sqloader.gif" data-src="images/avatar/pawan.jpg" class="lazyload rounded-circle">
-            </div>
-            <h4>Pawan Kishore</h4>
-            <h5><i class="icons-sm-i fa fa-whatsapp green-text"></i><a
-                    href="https://api.whatsapp.com/send?phone=919001370930">+91-9001370930</a></h5>
-            <h5><strong>Hometown: </strong>Varanasi, UP<br><strong>Branch: </strong>ME</h5>
-            <p>Ready to learn more each day.</p>
-            <a class="icons-sm email-ic" href="mailto:kishore.1@iitj.ac.in"><i class="fa fa-envelope-o"></i> </a>
-            <a class="icons-sm fb-ic" target="_blank" href="https://www.facebook.com/pawan.kishore95"><i
-            class="fa fa-facebook"> </i></a>
-
-        </div>
-
-        <div class="col-lg-4 col-md-6 mb-r">
-
-            <div class="avatar">
-                <img src="images/sqloader.gif" data-src="images/avatar/gautam.jpg" class="lazyload rounded-circle">
-            </div>
-            <h4>Gautam Battula</h4>
-            <h5><i class="icons-sm-i fa fa-whatsapp green-text"></i><a
-                    href="https://api.whatsapp.com/send?phone=919588810985">+91-9588810985</a></h5>
-            <h5><strong>Hometown: </strong>Hyderabad, Telangana<br><strong>Branch: </strong>CSE</h5>
-            <p>"Cricket | Music | Code | Foodie <br>
-                Cricket is life, Music is passion, Coding is love and Travelling is my goal...."</p>
-            <a class="icons-sm email-ic" href="mailto:gautam.3@iitj.ac.in"><i class="fa fa-envelope-o"></i> </a>
-            <a class="icons-sm fb-ic" target="_blank" href="https://www.facebook.com/gautam.battula"><i
-            class="fa fa-facebook"> </i></a>
-            <a class="icons-sm ins-ic" target="_blank" href="https://www.instagram.com/bat_gautam"><i
-                    class="fa fa-instagram"> </i></a>
-        </div>
-
-        <div class="col-lg-4 col-md-6 mb-r">
-
-            <div class="avatar">
-                <img src="images/sqloader.gif" data-src="images/avatar/shaunak.jpg" class="lazyload rounded-circle">
-            </div>
-            <h4>Shaunak Mehta</h4>
-            <h5><i class="icons-sm-i fa fa-whatsapp green-text"></i><a
-                    href="https://api.whatsapp.com/send?phone=919619142312">+91-9619142312</a></h5>
-            <h5><strong>Hometown: </strong>Mumbai, Maharashtra<br><strong>Branch: </strong>ME</h5>
-            <p>Not perfect but a limited edition. Loves to travel and explore new places and create new possibilities.</p>
-            <a class="icons-sm email-ic" href="mailto:mehta.3@iitj.ac.in"><i class="fa fa-envelope-o"></i> </a>
-            <a class="icons-sm fb-ic" target="_blank" href="https://www.facebook.com/shaunak.mehta.54"><i
-            class="fa fa-facebook"> </i></a>
-
-        </div>
-
-        <div class="col-lg-4 col-md-6 mb-r">
-
-            <div class="avatar">
-                <img src="images/sqloader.gif" data-src="images/avatar/mansi_kh.jpg" class="lazyload rounded-circle">
-            </div>
-            <h4>Manasi Khobragade</h4>
-            <h5><i class="icons-sm-i fa fa-whatsapp green-text"></i><a
-                    href="https://api.whatsapp.com/send?phone=917898997683">+91-7898997683</a></h5>
-            <h5><strong>Hometown: </strong>Bhilai, Chhattisgarh<br><strong>Branch: </strong>EE</h5>
-            <p>A sweet and simple girl</p>
-            <a class="icons-sm email-ic" href="mailto:khobragade.1@iitj.ac.in"><i class="fa fa-envelope-o"></i> </a>
-            <a class="icons-sm fb-ic" target="_blank" href="https://www.facebook.com/manasi.khobragade.12"><i
-            class="fa fa-facebook"> </i></a>
-
-        </div>
-
-        <div class="col-lg-4 col-md-6 mb-r">
-
-            <div class="avatar">
-                <img src="images/sqloader.gif" data-src="images/avatar/mayank.jpg" class="lazyload rounded-circle">
-            </div>
-            <h4>Mayank Maheshwari</h4>
-            <h5><i class="icons-sm-i fa fa-whatsapp green-text"></i><a
-                    href="https://api.whatsapp.com/send?phone=919024826680">+91-9024826680</a></h5>
-            <h5><strong>Hometown: </strong>Barmer, Raj.<br><strong>Branch: </strong>CSE</h5>
-            <p>An explorer, always in search of new. Foodie. Love to talk to new people.</p>
-            <a class="icons-sm email-ic" href="mailto:maheshwari.2@iitj.ac.in"><i class="fa fa-envelope-o"></i> </a>
-            <a class="icons-sm fb-ic" target="_blank" href="https://www.facebook.com/profile.php?id=100009165504169"><i
-            class="fa fa-facebook"> </i></a>
-
+            <p>Candid,positive ,foody</p>
         </div>
         <div class="col-lg-4 col-md-6 mb-r">
-
-            <div class="avatar">
-                <img src="images/sqloader.gif" data-src="images/avatar/kunal.jpg" class="lazyload rounded-circle">
-            </div>
-            <h4>Kunal Jangid</h4>
-            <h5><i class="icons-sm-i fa fa-whatsapp green-text"></i><a
-                    href="https://api.whatsapp.com/send?phone=919654005193">+91-9654005193</a></h5>
-            <h5><strong>Hometown: </strong>Faridabad, Haryana<br><strong>Branch: </strong>CSE</h5>
-            <p>"MUSIC | TRAVEL | EXPLORE <br>
-                Nature lover | Tech Geek"</p>
-            <a class="icons-sm email-ic" href="mailto:jangid.2@iitj.ac.in"><i class="fa fa-envelope-o"></i> </a>
-            <a class="icons-sm fb-ic" target="_blank" href="https://www.facebook.com/kunal.jangid.33"><i
-            class="fa fa-facebook"> </i></a>
-            <a class="icons-sm ins-ic" target="_blank" href="https://www.instagram.com/kunaljangid/"><i
-                    class="fa fa-instagram"> </i></a>
-
-
-        </div>
-
-        <div class="col-lg-4 col-md-6 mb-r">
-
-            <div class="avatar">
-                <img src="images/sqloader.gif" data-src="images/avatar/shivam.jpg" class="lazyload rounded-circle">
-            </div>
-            <h4>Shivam Goel</h4>
-            <h5><i class="icons-sm-i fa fa-whatsapp green-text"></i><a
-                    href="https://api.whatsapp.com/send?phone=918504912561">+91-8504912561</a></h5>
-            <h5><strong>Hometown: </strong>Khurja, UP<br><strong>Branch: </strong>ME</h5>
-            <p>Passionate, Adventurous, Travelholic and always ready to help.</p>
-            <a class="icons-sm email-ic" href="mailto:goel.5@iitj.ac.in"><i class="fa fa-envelope-o"></i> </a>
-            <!--<a class="icons-sm fb-ic" target="_blank" href="https://www.facebook.com/profile.php?id=100006802248418"><i-->
-            <!--class="fa fa-facebook"> </i></a>-->
-
-        </div>
-
-        <div class="col-lg-4 col-md-6 mb-r">
-
-            <div class="avatar">
-                <img src="images/sqloader.gif" data-src="images/avatar/sachin.jpg" class="lazyload rounded-circle">
-            </div>
-            <h4>Sachin Pandey</h4>
-            <h5><i class="icons-sm-i fa fa-whatsapp green-text"></i><a
-                    href="https://api.whatsapp.com/send?phone=918279420795">+91-8279420795</a></h5>
-            <h5><strong>Hometown: </strong>Bareilly, UP<br><strong>Branch: </strong>ME</h5>
-            <p>"Ergophile | Keen Observer | Inquisitive
-                Love To Interact, Learn, Gain.I believe Nobody Knows Everything but Everybody Knows Something. Love Indian History And Mythology."</p>
-            <a class="icons-sm email-ic" href="mailto:pandey.6@iitj.ac.in"><i class="fa fa-envelope-o"></i> </a>
-            <a class="icons-sm fb-ic" target="_blank" href="https://www.facebook.com/sachinpandey03"><i
-            class="fa fa-facebook"> </i></a>
-
-        </div>
-
-        <div class="col-lg-4 col-md-6 mb-r">
-
-            <div class="avatar">
-                <img src="images/sqloader.gif" data-src="images/avatar/anupama.jpg" class="lazyload rounded-circle">
-            </div>
-            <h4>Anupama Patel</h4>
-            <h5><i class="icons-sm-i fa fa-whatsapp green-text"></i><a
-                    href="https://api.whatsapp.com/send?phone=918769263368">+91-8769263368</a></h5>
-            <h5><strong>Hometown: </strong>Dewas, MP<br><strong>Branch: </strong>EE</h5>
-            <p>🏀 basketball player , like to read.</p>
-            <a class="icons-sm email-ic" href="mailto:patel.2@iitj.ac.in"><i class="fa fa-envelope-o"></i> </a>
-            <!--<a class="icons-sm fb-ic" target="_blank" href="https://www.facebook.com/profile.php?id=100006802248418"><i-->
-            <!--class="fa fa-facebook"> </i></a>-->
-
-        </div>
-
-        <div class="col-lg-4 col-md-6 mb-r">
-
-            <div class="avatar">
-                <img src="images/sqloader.gif" data-src="images/avatar/anshu_priya.jpg" class="lazyload rounded-circle">
-            </div>
-            <h4>Anshu Priya</h4>
-            <h5><i class="icons-sm-i fa fa-whatsapp green-text"></i><a
-                    href="https://api.whatsapp.com/send?phone=917635003713">+91-7635003713</a></h5>
-            <h5><strong>Hometown: </strong>Jhajha, Patna, Bihar<br><strong>Branch: </strong>EE</h5>
-            <p>Talkative and mystery girl😉.</p>
-            <a class="icons-sm email-ic" href="mailto:priya.1@iitj.ac.in"><i class="fa fa-envelope-o"></i> </a>
-            <!--<a class="icons-sm fb-ic" target="_blank" href="https://www.facebook.com/profile.php?id=100006802248418"><i-->
-            <!--class="fa fa-facebook"> </i></a>-->
-
-        </div>
-
-        <div class="col-lg-4 col-md-6 mb-r">
-
-            <div class="avatar">
-                <img src="images/sqloader.gif" data-src="images/avatar/arham.jpg" class="lazyload rounded-circle">
-            </div>
-            <h4>Arham Chordia</h4>
-            <h5><i class="icons-sm-i fa fa-whatsapp green-text"></i><a
-                    href="https://api.whatsapp.com/send?phone=918005659828">+91-8005659828</a></h5>
-            <h5><strong>Hometown: </strong>Jaipur, Raj.<br><strong>Branch: </strong>EE</h5>
-            <p>"Arham is the most handsome guy on campus."  -Everyone</p>
-            <a class="icons-sm email-ic" href="mailto:chordia.1@iitj.ac.in"><i class="fa fa-envelope-o"></i> </a>
-            <a class="icons-sm fb-ic" target="_blank" href="https://www.facebook.com/arham.chordia.5?ref=bookmarks"><i
-            class="fa fa-facebook"> </i></a>
-
-        </div>
-
-        <div class="col-lg-4 col-md-6 mb-r">
-
-            <div class="avatar">
-                <img src="images/sqloader.gif" data-src="images/avatar/rishav.jpg" class="lazyload rounded-circle">
-            </div>
-            <h4>Rishav Jain</h4>
-            <h5><i class="icons-sm-i fa fa-whatsapp green-text"></i><a
-                    href="https://api.whatsapp.com/send?phone=918521359301">+91-8521359301</a></h5>
-            <h5><strong>Hometown: </strong>Khunti, Ranchi, Jharkhand<br><strong>Branch: </strong>CSE</h5>
-            <p>Food, travel and music lover</p>
-            <a class="icons-sm email-ic" href="mailto:jain.11@iitj.ac.in"><i class="fa fa-envelope-o"></i> </a>
-            <!--<a class="icons-sm fb-ic" target="_blank" href="https://www.facebook.com/profile.php?id=100006802248418"><i-->
-            <!--class="fa fa-facebook"> </i></a>-->
-
+            <div class="avatar"><img src="images/sqloader.gif" data-src="images/avatar/rituraj_kulshresth.jpg" class="lazyload rounded-circle" onerror="this.onerror=null;this.src='images/avatar/missing.png'"></div>
+            <h4>Rituraj Kulshresth </h4>
+            <h5><i class="icons-sm-i fa fa-whatsapp green-text"></i><a href="https://api.whatsapp.com/send?phone=917004742004">+91-7004742004</a></h5>
+            <h5><strong>Hometown: </strong>Ranchi, Jharkhand<br><strong>Branch: </strong>CSE</h5>
+            <p>Chocoholic, Cyclist for fun, Love adventure </p>
+            <a class="icons-sm email-ic" href="mailto:kulshresth.1@iitj.ac.in"><i class="fa fa-envelope-o"></i> </a>
+            <a class="icons-sm fb-ic" target="_blank" href="https://www.facebook.com/rituraj.kulshresth"><i class="fa fa-facebook"> </i></a>
+            <a class="icons-sm ins-ic" target="_blank" href="https://www.instagram.com/rituraj_kulshresth/"><i class="fa fa-instagram"> </i></a>
         </div>
         <div class="col-lg-4 col-md-6 mb-r">
-
-            <div class="avatar">
-                <img src="images/sqloader.gif" data-src="images/avatar/shubam.jpg" class="lazyload rounded-circle">
-            </div>
-            <h4>Shubham Suresh Gattani </h4>
-            <h5><i class="icons-sm-i fa fa-whatsapp green-text"></i><a
-                    href="https://api.whatsapp.com/send?phone=917028696653">+91-7028696653</a></h5>
-            <h5><strong>Hometown: </strong>Mumbai, Maharashtra <br><strong>Branch: </strong>ME</h5>
-            <p>Good listener, perfect person for mischievous as well as serious talks</p>
-            <a class="icons-sm email-ic" href="mailto:gattani.2@iitj.ac.in"><i class="fa fa-envelope-o"></i> </a>
-            <a class="icons-sm fb-ic" target="_blank" href="https://www.facebook.com/shubham.gattani.1276"><i
-            class="fa fa-facebook"> </i></a>
+            <div class="avatar"><img src="images/sqloader.gif" data-src="images/avatar/pratik_goyal.jpg" class="lazyload rounded-circle" onerror="this.onerror=null;this.src='images/avatar/missing.png'"></div>
+            <h4>Pratik Goyal</h4>
+            <h5><i class="icons-sm-i fa fa-whatsapp green-text"></i><a href="https://api.whatsapp.com/send?phone=919521411661">+91-9521411661</a></h5>
+            <h5><strong>Hometown: </strong>Patna, Bihar<br><strong>Branch: </strong>BB</h5>
+            <p></p>
+            <a class="icons-sm email-ic" href="mailto:goyal.9@iitj.ac.in"><i class="fa fa-envelope-o"></i> </a>
+            <a class="icons-sm fb-ic" target="_blank" href="https://m.facebook.com/pratik.gl"><i class="fa fa-facebook"> </i></a>
+            <a class="icons-sm ins-ic" target="_blank" href="https://www.instagram.com/pratik_gl/"><i class="fa fa-instagram"> </i></a>
+            <a class="icons-sm git-ic" target="_blank" href="https://www.linkedin.com/in/pratikgl"><i class="fa fa-linkedin" > </i > </a >
         </div>
-
-
+        <div class="col-lg-4 col-md-6 mb-r" >
+        <div class="avatar"><img src="images/sqloader.gif" data-src="images/avatar/vishnu_prajapati.jpg" class="lazyload rounded-circle" onerror="this.onerror=null;this.src='images/avatar/missing.png'"></div><h4>Vishnu Prajapati</h4>
+        <h5><i class="icons-sm-i fa fa-whatsapp green-text"></i><a href="https://api.whatsapp.com/send?phone=918383880488">+91-8383880488</a></h5>
+            <h5><strong>Hometown: </strong>Gurgaon, Haryana<br><strong>Branch: </strong>ME</h5>
+            <p>One life two words- passion and compassion</p>
+            <a class="icons-sm email-ic" href="mailto:prajapati.1@iitj.ac.in"><i class="fa fa-envelope-o"></i> </a>
+            <a class="icons-sm fb-ic" target="_blank" href="https://www.facebook.com/Vishnushivam12"><i class="fa fa-facebook"> </i></a>
+            <a class="icons-sm ins-ic" target="_blank" href="https://www.instagram.com/vishnu1o1/"><i class="fa fa-instagram"> </i></a>
+        </div>
+        <div class="col-lg-4 col-md-6 mb-r">
+            <div class="avatar"><img src="images/sqloader.gif" data-src="images/avatar/nitish_jain.jpg" class="lazyload rounded-circle" onerror="this.onerror=null;this.src='images/avatar/missing.png'"></div>
+            <h4>Nitish Jain</h4>
+            <h5><i class="icons-sm-i fa fa-whatsapp green-text"></i><a href="https://api.whatsapp.com/send?phone=919571080180">+91-9571080180</a></h5>
+            <h5><strong>Hometown: </strong>Agra, Uttar Pradesh<br><strong>Branch: </strong>ME</h5>
+            <p></p>
+            <a class="icons-sm email-ic" href="mailto:jain.25@iitj.ac.in"><i class="fa fa-envelope-o"></i> </a>
+            <a class="icons-sm fb-ic" target="_blank" href="https://m.facebook.com/nitish.jain.549221"><i class="fa fa-facebook"> </i></a>
+            <a class="icons-sm ins-ic" target="_blank" href="https://www.instagram.com/nitissh_jain/"><i class="fa fa-instagram"> </i></a>
+        </div>
+        <div class="col-lg-4 col-md-6 mb-r">
+            <div class="avatar"><img src="images/sqloader.gif" data-src="images/avatar/jash_patel.jpg" class="lazyload rounded-circle" onerror="this.onerror=null;this.src='images/avatar/missing.png'"></div>
+            <h4>Jash Patel</h4>
+            <h5><i class="icons-sm-i fa fa-whatsapp green-text"></i><a href="https://api.whatsapp.com/send?phone=919913212919">+91-9913212919</a></h5>
+            <h5><strong>Hometown: </strong>Surat, Gujarat<br><strong>Branch: </strong>CSE</h5>
+            <p>Meeting people only to make friends</p>
+            <a class="icons-sm email-ic" href="mailto:patel.5@iitj.ac.in"><i class="fa fa-envelope-o"></i> </a>
+            <a class="icons-sm fb-ic" target="_blank" href="https://m.facebook.com/jash.kanani.5"><i class="fa fa-facebook"> </i></a>
+            <a class="icons-sm ins-ic" target="_blank" href="https://www.instagram.com/kanani.jash/"><i class="fa fa-instagram"> </i></a>
+        </div>
+        <div class="col-lg-4 col-md-6 mb-r">
+            <div class="avatar"><img src="images/sqloader.gif" data-src="images/avatar/rajat_sharma.jpg" class="lazyload rounded-circle" onerror="this.onerror=null;this.src='images/avatar/missing.png'"></div>
+            <h4>Rajat Sharma</h4>
+            <h5><i class="icons-sm-i fa fa-whatsapp green-text"></i><a href="https://api.whatsapp.com/send?phone=917906037868">+91-7906037868</a></h5>
+            <h5><strong>Hometown: </strong>Haridwar, Uttarakhand<br><strong>Branch: </strong>CSE</h5>
+            <p></p>
+            <a class="icons-sm email-ic" href="mailto:sharma.30@iitj.ac.in"><i class="fa fa-envelope-o"></i> </a>
+            <a class="icons-sm fb-ic" target="_blank" href="https://www.facebook.com/aru.sharma.33234"><i class="fa fa-facebook"> </i></a>
+        </div>
+        <div class="col-lg-4 col-md-6 mb-r">
+            <div class="avatar"><img src="images/sqloader.gif" data-src="images/avatar/vinit_oswal.jpg" class="lazyload rounded-circle" onerror="this.onerror=null;this.src='images/avatar/missing.png'"></div>
+            <h4>Vinit Oswal</h4>
+            <h5><i class="icons-sm-i fa fa-whatsapp green-text"></i><a href="https://api.whatsapp.com/send?phone=918308456997">+91-8308456997</a></h5>
+            <h5><strong>Hometown: </strong>Pune, Maharashtra<br><strong>Branch: </strong>ME</h5>
+            <p>Simple and patient</p>
+            <a class="icons-sm email-ic" href="mailto:oswal.1@iitj.ac.in"><i class="fa fa-envelope-o"></i> </a>
+            <a class="icons-sm fb-ic" target="_blank" href="https://m.facebook.com/vineet.oswal.77"><i class="fa fa-facebook"> </i></a>
+            <a class="icons-sm ins-ic" target="_blank" href="https://www.instagram.com/vineet_oswal1697/"><i class="fa fa-instagram"> </i></a>
+        </div>
+        <div class="col-lg-4 col-md-6 mb-r">
+            <div class="avatar"><img src="images/sqloader.gif" data-src="images/avatar/meet_patel.jpg" class="lazyload rounded-circle" onerror="this.onerror=null;this.src='images/avatar/missing.png'"></div>
+            <h4>Meet Patel</h4>
+            <h5><i class="icons-sm-i fa fa-whatsapp green-text"></i><a href="https://api.whatsapp.com/send?phone=916354668412">+91-6354668412</a></h5>
+            <h5><strong>Hometown: </strong>Surat, Gujarat <br><strong>Branch: </strong>ME</h5>
+            <p>Love to stay calm and happy</p>
+            <a class="icons-sm email-ic" href="mailto:patel.8@iitj.ac.in"><i class="fa fa-envelope-o"></i> </a>
+            <a class="icons-sm fb-ic" target="_blank" href="https://www.facebook.com/profile.php?id=100008996731274"><i class="fa fa-facebook"> </i></a>
+            <a class="icons-sm ins-ic" target="_blank" href="https://www.instagram.com/m.e.e.t_p.a.t.e.l/"><i class="fa fa-instagram"> </i></a>
+        </div>
+        <div class="col-lg-4 col-md-6 mb-r">
+            <div class="avatar"><img src="images/sqloader.gif" data-src="images/avatar/v_manikanta.jpg" class="lazyload rounded-circle" onerror="this.onerror=null;this.src='images/avatar/missing.png'"></div>
+            <h4>V Manikanta</h4>
+            <h5><i class="icons-sm-i fa fa-whatsapp green-text"></i><a href="https://api.whatsapp.com/send?phone=919381579676">+91-9381579676</a></h5>
+            <h5><strong>Hometown: </strong>Vijayawada, Ap<br><strong>Branch: </strong>ME</h5>
+            <p>Less speech and more of action</p>
+            <a class="icons-sm email-ic" href="mailto:sai.1@iitj.ac.in "><i class="fa fa-envelope-o"></i> </a>
+            <a class="icons-sm fb-ic" target="_blank" href="https://www.facebook.com/manikanta.1.3363"><i class="fa fa-facebook"> </i></a>
+            <a class="icons-sm ins-ic" target="_blank" href="https://www.instagram.com/manik__24/"><i class="fa fa-instagram"> </i></a>
+        </div>
+        <div class="col-lg-4 col-md-6 mb-r">
+            <div class="avatar"><img src="images/sqloader.gif" data-src="images/avatar/kunal_tawatia.jpg" class="lazyload rounded-circle" onerror="this.onerror=null;this.src='images/avatar/missing.png'"></div>
+            <h4>Kunal Tawatia</h4>
+            <h5><i class="icons-sm-i fa fa-whatsapp green-text"></i><a href="https://api.whatsapp.com/send?phone=919953511385">+91-9953511385</a></h5>
+            <h5><strong>Hometown: </strong>Ghaziabad, Uttar Pradesh<br><strong>Branch: </strong>CSE</h5>
+            <p>Don't hold back if you need help :)</p>
+            <a class="icons-sm email-ic" href="mailto:tawatia.1@iitj.ac.jn"><i class="fa fa-envelope-o"></i> </a>
+            <a class="icons-sm fb-ic" target="_blank" href="https://www.facebook.com/kunal.tawatia"><i class="fa fa-facebook"> </i></a>
+            <a class="icons-sm ins-ic" target="_blank" href="https://www.instagram.com/kunal.tawatia"><i class="fa fa-instagram"> </i></a>
+        </div>
+        <div class="col-lg-4 col-md-6 mb-r">
+            <div class="avatar"><img src="images/sqloader.gif" data-src="images/avatar/g_annapurna.jpg" class="lazyload rounded-circle" onerror="this.onerror=null;this.src='images/avatar/missing.png'"></div>
+            <h4>G Annapurna</h4>
+            <h5><i class="icons-sm-i fa fa-whatsapp green-text"></i><a href="https://api.whatsapp.com/send?phone=919381563334">+91-9381563334</a></h5>
+            <h5><strong>Hometown: </strong>Hyderabad, Telangana<br><strong>Branch: </strong>EE</h5>
+            <p></p>
+            <a class="icons-sm email-ic" href="mailto:gotta.1@iitj.ac.in"><i class="fa fa-envelope-o"></i> </a>
+            <a class="icons-sm fb-ic" target="_blank" href="https://www.facebook.com/annapurna.gotta.73"><i class="fa fa-facebook"> </i></a>
+        </div>
+        <div class="col-lg-4 col-md-6 mb-r">
+            <div class="avatar"><img src="images/sqloader.gif" data-src="images/avatar/divya_singh.jpg" class="lazyload rounded-circle" onerror="this.onerror=null;this.src='images/avatar/missing.png'"></div>
+            <h4>Divya Singh</h4>
+            <h5><i class="icons-sm-i fa fa-whatsapp green-text"></i><a href="https://api.whatsapp.com/send?phone=917007632378">+91-7007632378</a></h5>
+            <h5><strong>Hometown: </strong>Kanpur, Uttar Pradesh<br><strong>Branch: </strong>EE</h5>
+            <p>Brown-eyed brunette who likes to believe in the power of belief. A bibliophile along with an ardent K-Pop lover.</p>
+            <a class="icons-sm email-ic" href="mailto:singh.37@iitj.ac.in"><i class="fa fa-envelope-o"></i> </a>
+            <a class="icons-sm fb-ic" target="_blank" href="https://www.facebook.com/ds.0111"><i class="fa fa-facebook"> </i></a>
+            <a class="icons-sm ins-ic" target="_blank" href="https://www.instagram.com/the_diva_007/"><i class="fa fa-instagram"> </i></a>
+        </div>
+        <div class="col-lg-4 col-md-6 mb-r">
+            <div class="avatar"><img src="images/sqloader.gif" data-src="images/avatar/utpal_gupta.jpg" class="lazyload rounded-circle" onerror="this.onerror=null;this.src='images/avatar/missing.png'"></div>
+            <h4>Utpal Gupta</h4>
+            <h5><i class="icons-sm-i fa fa-whatsapp green-text"></i><a href="https://api.whatsapp.com/send?phone=919516182735">+91-9516182735</a></h5>
+            <h5><strong>Hometown: </strong>Chhatarpur, Mp<br><strong>Branch: </strong>CSE</h5>
+            <p>A sarcastic banterer,A timid extrovert,fun loving person who wanna go places. </p>
+            <a class="icons-sm email-ic" href="mailto:gupta.27@iitj.ac.in"><i class="fa fa-envelope-o"></i> </a>
+            <a class="icons-sm ins-ic" target="_blank" href="https://www.instagram.com/m4n_mad_dis4ster/"><i class="fa fa-instagram"> </i></a>
+        </div>
+        <div class="col-lg-4 col-md-6 mb-r">
+            <div class="avatar"><img src="images/sqloader.gif" data-src="images/avatar/masoom_raj.jpg" class="lazyload rounded-circle" onerror="this.onerror=null;this.src='images/avatar/missing.png'"></div>
+            <h4>Masoom Raj</h4>
+            <h5><i class="icons-sm-i fa fa-whatsapp green-text"></i><a href="https://api.whatsapp.com/send?phone=919708313140">+91-9708313140</a></h5>
+            <h5><strong>Hometown: </strong>Gaya, Bihar<br><strong>Branch: </strong>CSE</h5>
+            <p>Positive, Jolly person</p>
+            <a class="icons-sm email-ic" href="mailto:raj.8@iitj.ac.in"><i class="fa fa-envelope-o"></i> </a>
+            <a class="icons-sm fb-ic" target="_blank" href="https://www.facebook.com/profile.php?id=100008575125905"><i class="fa fa-facebook"> </i></a>
+            <a class="icons-sm ins-ic" target="_blank" href="https://www.instagram.com/maasoomraj"><i class="fa fa-instagram"> </i></a>
+        </div>
+        <div class="col-lg-4 col-md-6 mb-r">
+            <div class="avatar"><img src="images/sqloader.gif" data-src="images/avatar/manan_shah.jpg" class="lazyload rounded-circle" onerror="this.onerror=null;this.src='images/avatar/missing.png'"></div>
+            <h4>Manan Shah</h4>
+            <h5><i class="icons-sm-i fa fa-whatsapp green-text"></i><a href="https://api.whatsapp.com/send?phone=919898150262">+91-9898150262</a></h5>
+            <h5><strong>Hometown: </strong>Surat, Gujarat<br><strong>Branch: </strong>CSE</h5>
+            <p></p>
+            <a class="icons-sm email-ic" href="mailto:shah.6@iitj.ac.in"><i class="fa fa-envelope-o"></i> </a>
+            <a class="icons-sm fb-ic" target="_blank" href="https://www.facebook.com/manan.shah.3323457"><i class="fa fa-facebook"> </i></a>
+            <a class="icons-sm ins-ic" target="_blank" href="https://www.instagram.com/mananshah2709"><i class="fa fa-instagram"> </i></a>
+        </div>
+        <div class="col-lg-4 col-md-6 mb-r">
+            <div class="avatar"><img src="images/sqloader.gif" data-src="images/avatar/harsh_anand.jpg" class="lazyload rounded-circle" onerror="this.onerror=null;this.src='images/avatar/missing.png'"></div>
+            <h4>Harsh Anand</h4>
+            <h5><i class="icons-sm-i fa fa-whatsapp green-text"></i><a href="https://api.whatsapp.com/send?phone=918901031405">+91-8901031405</a></h5>
+            <h5><strong>Hometown: </strong>Kurukshetra, Haryana<br><strong>Branch: </strong>CSE</h5>
+            <p>Part time professional cuss word sayer</p>
+            <a class="icons-sm email-ic" href="mailto:anand.2@iitj.ac.in"><i class="fa fa-envelope-o"></i> </a>
+            <a class="icons-sm fb-ic" target="_blank" href="https://m.facebook.com/harsh.not.haarsh"><i class="fa fa-facebook"> </i></a>
+            <a class="icons-sm ins-ic" target="_blank" href="https://www.instagram.com/harsh_not_haarsh"><i class="fa fa-instagram"> </i></a>
+            <a class="icons-sm git-ic" target="_blank" href="https://www.linkedin.com/in/harsh-anand-40430716b"><i class="fa fa-linkedin" > </i > </a >
+        </div>
+        <div class="col-lg-4 col-md-6 mb-r" >
+        <div class="avatar"><img src="images/sqloader.gif" data-src="images/avatar/rishabh_shukla.jpg" class="lazyload rounded-circle" onerror="this.onerror=null;this.src='images/avatar/missing.png'"></div><h4>Rishabh Shukla</h4>
+        <h5><i class="icons-sm-i fa fa-whatsapp green-text"></i><a href="https://api.whatsapp.com/send?phone=919158460506">+91-9158460506</a></h5>
+            <h5><strong>Hometown: </strong>Mumbai<br><strong>Branch: </strong>ME</h5>
+            <p></p>
+            <a class="icons-sm email-ic" href="mailto:shukla.6@iitj.ac.in"><i class="fa fa-envelope-o"></i> </a>
+        </div>
+        <div class="col-lg-4 col-md-6 mb-r">
+            <div class="avatar"><img src="images/sqloader.gif" data-src="images/avatar/ani_agrawal.jpg" class="lazyload rounded-circle" onerror="this.onerror=null;this.src='images/avatar/missing.png'"></div>
+            <h4>Ani Agrawal</h4>
+            <h5><i class="icons-sm-i fa fa-whatsapp green-text"></i><a href="https://api.whatsapp.com/send?phone=919413794018">+91-9413794018</a></h5>
+            <h5><strong>Hometown: </strong>Bikaner, Rajasthan<br><strong>Branch: </strong>ME</h5>
+            <p>Not perfect but a limited edition. observer.explorer.ecstatic.enthusiastic</p>
+            <a class="icons-sm email-ic" href="mailto:agrawal.10@iitj.ac.in"><i class="fa fa-envelope-o"></i> </a>
+            <a class="icons-sm fb-ic" target="_blank" href="https://m.facebook.com/ani.goyal.9883?ref=bookmarks"><i class="fa fa-facebook"> </i></a>
+        </div>
+        <div class="col-lg-4 col-md-6 mb-r">
+            <div class="avatar"><img src="images/sqloader.gif" data-src="images/avatar/dhruv_patel.jpg" class="lazyload rounded-circle" onerror="this.onerror=null;this.src='images/avatar/missing.png'"></div>
+            <h4>Dhruv Patel</h4>
+            <h5><i class="icons-sm-i fa fa-whatsapp green-text"></i><a href="https://api.whatsapp.com/send?phone=919408206000">+91-9408206000</a></h5>
+            <h5><strong>Hometown: </strong>Vadodara, Gujarat<br><strong>Branch: </strong>CSE</h5>
+            <p>Just talk to me to know about me</p>
+            <a class="icons-sm email-ic" href="mailto:patel.4@iitj.ac.in"><i class="fa fa-envelope-o"></i> </a>
+            <a class="icons-sm ins-ic" target="_blank" href="https://www.instagram.com/a.musing_mind?r=nametag"><i class="fa fa-instagram"> </i></a>
+            <a class="icons-sm git-ic" target="_blank" href="https://www.linkedin.com/in/dhruv-patel-1439b117b"><i class="fa fa-linkedin" > </i > </a >
+        </div>
+        <div class="col-lg-4 col-md-6 mb-r" >
+        <div class="avatar"><img src="images/sqloader.gif" data-src="images/avatar/sahil_gaur.jpg" class="lazyload rounded-circle" onerror="this.onerror=null;this.src='images/avatar/missing.png'"></div><h4>Sahil Gaur</h4>
+        <h5><i class="icons-sm-i fa fa-whatsapp green-text"></i><a href="https://api.whatsapp.com/send?phone=916377921235">+91-6377921235</a></h5>
+            <h5><strong>Hometown: </strong>Gwalior, M.P<br><strong>Branch: </strong>ME</h5>
+            <p>Sketchy and Sarcastic. Funnily enough .. I can 'sketch' too.</p>
+            <a class="icons-sm email-ic" href="mailto:gaur.6@iitj.ac.in"><i class="fa fa-envelope-o"></i> </a>
+            <a class="icons-sm fb-ic" target="_blank" href="https://www.facebook.com/sahil.gaur.313371"><i class="fa fa-facebook"> </i></a>
+            <a class="icons-sm ins-ic" target="_blank" href="https://www.instagram.com/sahil_raj01/"><i class="fa fa-instagram"> </i></a>
+        </div>
+        <div class="col-lg-4 col-md-6 mb-r">
+            <div class="avatar"><img src="images/sqloader.gif" data-src="images/avatar/ishit_patel.jpg" class="lazyload rounded-circle" onerror="this.onerror=null;this.src='images/avatar/missing.png'"></div>
+            <h4>Ishit Patel</h4>
+            <h5><i class="icons-sm-i fa fa-whatsapp green-text"></i><a href="https://api.whatsapp.com/send?phone=919727769795">+91-9727769795</a></h5>
+            <h5><strong>Hometown: </strong>Surat, Gujarat<br><strong>Branch: </strong>EE</h5>
+            <p></p>
+            <a class="icons-sm email-ic" href="mailto:patel.3@iitj.ac.in"><i class="fa fa-envelope-o"></i> </a>
+            <a class="icons-sm fb-ic" target="_blank" href="https://www.facebook.com/ishit.patel.566"><i class="fa fa-facebook"> </i></a>
+            <a class="icons-sm ins-ic" target="_blank" href="https://www.instagram.com/ishit__patel/"><i class="fa fa-instagram"> </i></a>
+        </div>
+        <div class="col-lg-4 col-md-6 mb-r">
+            <div class="avatar"><img src="images/sqloader.gif" data-src="images/avatar/harit_gedia.jpg" class="lazyload rounded-circle" onerror="this.onerror=null;this.src='images/avatar/missing.png'"></div>
+            <h4>Harit Gedia</h4>
+            <h5><i class="icons-sm-i fa fa-whatsapp green-text"></i><a href="https://api.whatsapp.com/send?phone=918155982422">+91-8155982422</a></h5>
+            <h5><strong>Hometown: </strong>Rajkot, Gujarat<br><strong>Branch: </strong>EE</h5>
+            <p></p>
+            <a class="icons-sm email-ic" href="mailto:gedia.1@iitj.ac.in"><i class="fa fa-envelope-o"></i> </a>
+        </div>
+        <div class="col-lg-4 col-md-6 mb-r">
+            <div class="avatar"><img src="images/sqloader.gif" data-src="images/avatar/aryavardhan_singh_shaktawat.jpg" class="lazyload rounded-circle" onerror="this.onerror=null;this.src='images/avatar/missing.png'"></div>
+            <h4>Aryavardhan Singh Shaktawat</h4>
+            <h5><i class="icons-sm-i fa fa-whatsapp green-text"></i><a href="https://api.whatsapp.com/send?phone=919950634068">+91-9950634068</a></h5>
+            <h5><strong>Hometown: </strong>Bhilwara, Rajasthan<br><strong>Branch: </strong>EE</h5>
+            <p>Cricket lover, calm and happy,</p>
+            <a class="icons-sm email-ic" href="mailto:shaktawat.1@iitj.ac.in"><i class="fa fa-envelope-o"></i> </a>
+            <a class="icons-sm fb-ic" target="_blank" href="https://www.facebook.com/aryavardhan.shaktawat.9"><i class="fa fa-facebook"> </i></a>
+            <a class="icons-sm ins-ic" target="_blank" href="https://www.instagram.com/abarton_007?r=nametag"><i class="fa fa-instagram"> </i></a>
+        </div>
+        <div class="col-lg-4 col-md-6 mb-r">
+            <div class="avatar"><img src="images/sqloader.gif" data-src="images/avatar/archit_bansal.jpg" class="lazyload rounded-circle" onerror="this.onerror=null;this.src='images/avatar/missing.png'"></div>
+            <h4>Archit Bansal</h4>
+            <h5><i class="icons-sm-i fa fa-whatsapp green-text"></i><a href="https://api.whatsapp.com/send?phone=918295427592">+91-8295427592</a></h5>
+            <h5><strong>Hometown: </strong>Panipat, Haryana<br><strong>Branch: </strong>ME</h5>
+            <p>Travel Enthusiastic||Anime Lover||Like to read||Food & sleep.... Believe in my friends and family</p>
+            <a class="icons-sm email-ic" href="mailto:bansal.2@iitj.ac.in"><i class="fa fa-envelope-o"></i> </a>
+            <a class="icons-sm fb-ic" target="_blank" href="https://m.facebook.com/archit.bansal.127?ref=bookmarks"><i class="fa fa-facebook"> </i></a>
+            <a class="icons-sm ins-ic" target="_blank" href="https://www.instagram.com/archit_bansal_02/"><i class="fa fa-instagram"> </i></a>
+        </div>
     </div>
     <!--/First row-->
 
