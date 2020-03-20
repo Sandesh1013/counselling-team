@@ -183,16 +183,16 @@ include 'navbar.html';
             <h2 class="h2-responsive">Our Motto</h2>
         </div>
         <div class="row">
-            <div class="col-sm-8 card-block m-0 pt-5">
+            <div class="col-sm-12 card-block m-0 pt-5">
                 <p class="text-justify">The upcoming years of your stay at IIT Jodhpur will give your life a new direction
                     both academically and personally. As the time passes, there will be various challenges waiting for you.
                     We, the Student Counselling Service is devoted to provide personal guidance and necessary resources to students
                     to deal with all these challenges. The team tries to ensure that IITJ is not just an institute, but a
                     home away from home for you.</p>
             </div>
-            <div class="col-sm-4 m-0 pt-0">
-                <div class="text-justify card mt-2" role="list" style="height: 16rem;">
-                    <h3 class="h3-responsive card-header"><strong>Announcements</strong><img src="images/newicon.gif"></h4></h3>
+            <!-- <div class="col-sm-4 m-0 pt-0"> -->
+                <!-- <div class="text-justify card mt-2" role="list" style="height: 16rem;"> -->
+                    <!-- <h3 class="h3-responsive card-header"><strong>Announcements</strong></h4></h3>
                     <ol class="card-block pl-5" style="overflow-y: scroll;">
                         <li>
                             A help desk will be there on the <b>Platform No. 1 on Jodhpur Jn.(Railway Station).</b> The buses will be
@@ -205,9 +205,9 @@ include 'navbar.html';
                             Fee and the Mess Fee in the favour of <b><u>Fees Collection Account IIT Jodhpur</u></b>
                             payable at IIT Jodhpur.
                         </li>
-                    </ol>
-                </div>
-            </div>
+                    </ol> -->
+                <!-- </div> -->
+            <!-- </div> -->
         </div>
         <div class="divider-new">
             <h2>Info</h2>
@@ -243,11 +243,11 @@ include 'navbar.html';
                 <div class="card">
                     <!--<img class="img-fluid" src="images/dates.png" alt="Arrival dates">-->
                     <div class="card-block" style="height: 12.5rem;">
-                        <h4 class="card-title">Arrival Dates<img src="images/newicon.gif"></h4>
+                        <h4 class="card-title">Arrival Dates</h4>
                         <p class="card-text">
                         <ul>
-                            <li>The reporting date for UG students is July 22, 2018</li>
-                            <li>The reporting date for PG students is August 16,2018</li>
+                            <li>The reporting date for UG students is July 23, 2019</li>
+                            <li>The reporting date for PG students is July 21, 2019</li>
                         </ul>
                         </p>
                     </div>

@@ -1,50 +1,33 @@
 <?php
-    include 'head.html';
+include 'head.html';
 ?>
+
 <head>
-    <title>Bus Schedule - IITJ</title>
+    <title>Bus Schedule</title>
 </head>
-<body>
-<!--Navbar-->
-<?php
-include 'navbar.html';
-?>
-<script>
-    document.getElementById('nav-8').classList.add('active');
-    document.getElementById('nav-8').children[0].innerHTML += '<span class="sr-only">(current)</span>';
-</script>
-<div class="top-fixer-2"></div>
-<section class="section team-section container">
-    <h1 class="section-heading">Bus Schedule</h1>
-    <div class="row m-4 m-lg-5">
-        <p>
-        A help desk will be there on the <b>Platform No. 1 on Jodhpur Jn.(Railway Station).</b> The buses will be
-        arranged from the MBM Engineering College to IIT Jodhpur Permanent Campus(Karwar) via Railway Station on 22nd
-            July 2018. The buses will be parked at <b>backside of railway station.</b> For the availability of buses on other
-        days i.e. 23rd and 24th July or any other doubts on any day itself, you may contact anyone below -
-        <br>
 
-        <ul>
-            <li>Gautam Batulla - <a href="tel:+919588810985">+91-9588810985</a></li>
-            <li>Arjun Joshi - <a href="tel:+919871698289">+91-9871698289</a></li>
-            <li>Shaunak Mehta - <a href="tel:+919619142312">+91-9619142312</a></li>
-            <li>Arpit Singh - <a href="tel:+918788082907">+91-8788082907</a></li>
-            <li>Ashish Chavan - <a href="tel: +918766443560">+91-8766443560</a></li>
-            <li>Sourav Yadav - <a href="tel:+919079990298">+91-9079990298</a></li>
-            <br>
-            <li><b>You may make your own arrangements and book a cab or auto-rickshaw directly to the campus too!</b></li>
-        </ul>
-        </p>
-    </div>
-    <div class="btn btn-lg"><strong><a href="index.php">Back to Home</a></strong></div>
+<body style="text-align:center">
+    <!--Navbar-->
+    <?php
+    include 'navbar.html';
+    ?>
+    <script>
+        document.getElementById('nav-2').classList.add('active');
+        document.getElementById('nav-2-1').classList.add('active');
+        document.getElementById('nav-2').children[0].innerHTML += '<span class="sr-only">(current)</span>';
+    </script>
+    <div class="top-fixer-2"></div>
+    <!-- SCRIPTS -->
+    <!-- JQuery -->
+    <script type="text/javascript" src="js/jquery-3.1.1.min.js"></script>
+    <!-- Bootstrap tooltips -->
+    <script type="text/javascript" src="js/tether.min.js"></script>
+    <!-- Bootstrap core JavaScript -->
+    <script type="text/javascript" src="js/compiled.min.js"></script>
 
-</section>
-<!-- SCRIPTS -->
-<!-- JQuery -->
-<script type="text/javascript" src="js/jquery-3.1.1.min.js"></script>
-<!-- Bootstrap core JavaScript -->
-<script type="text/javascript" src="js/compiled.min.js"></script>
-<!--Footer-->
+    <script type="text/javascript" src="js/lazysizes.min.js"></script>
+    <!--Footer-->
+</body>
 <?php
 include 'footer.html';
 ?>

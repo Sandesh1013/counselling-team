@@ -28,7 +28,7 @@ include 'navbar.html';
     <p class="section-description"></p>
     <div class="accordion text-justify" id="accordion" role="tablist" aria-multiselectable="true">
 
-        <div class="card">
+        <!-- <div class="card">
             <div class="card-header" role="tab" id="heading1">
                 <a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse1"
                    aria-expanded="false" aria-controls="collapse1">
@@ -136,7 +136,7 @@ include 'navbar.html';
                     required documents) there are no further formalities generally.
                 </div>
             </div>
-        </div>
+        </div> -->
 
 
 
